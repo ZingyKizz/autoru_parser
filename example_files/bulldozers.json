@@ -1,0 +1,215 @@
+{
+    "availability": "IN_STOCK",
+    "category": "trucks",
+    "old_category_id": 32,
+    "color_hex": "FFD600",
+    "description": "Продажа нового бульдозера Б10м (станарт)\nПрямые и полусферические отвалы.\nНа базе гусеничного трактора Т 10М (Т170).\nПрямая продажа без посредников.\nВыгодные цены.\n________________________________________________\n\nДоставка в любой регион.\nИдеальная техника для вашего производства и строительства.\n\nТехника в Наличии.\n\nГарантийное и сервисное обслуживание в любой точке РФ и СНГ\n\nТехнику можно купить в лизинг или кредит на выгодных условиях.\n________________________________________________\n\nТехнич. характеристики и комплектация стандарт (болотоход): двигатель ЧТЗ Д180 (180 л.с), вес 19 тонн, гусеница 500мм (900мм), полусферический (прямой) отвал, модернизированная кабина, комплект ЗИП, каталог запчастей.\n________________________________________________\n\nЗаводская гарантия на бульдозеры (Б10 М)(Т 170) - 12 месяцев (1000 м.ч)\n\nДополнительно можно укомлектовать: Любое навесное оборудование (Сваебойная установка СП 49Д, рыхлители, буровые установки, баровые машины, трубоукладчик, болотник, кабелеукладчик и др навесное и дополнительное оборудование) \n\nТехника и доп оборудование в наличии, возможна быстрая доставка к вам на объект в любую точку РФ и СНГ.\n\nЦена указана с НДС.\nВыгодный лизинг",
+    "is_favorite": false,
+    "section": "new",
+    "seller_type": "COMMERCIAL",
+    "status": "ACTIVE",
+    "delivery_info": {},
+    "additional_info": {
+        "hidden": false,
+        "is_on_moderation": false,
+        "update_date": "1586144410597",
+        "creation_date": "1585927641000",
+        "fresh_date": "1585927641000",
+        "chat_only": false,
+        "dealer_card_promo": "SLEEP_PROMO"
+    },
+    "autostrategies": [],
+    "credit_info": {},
+    "brand_cert_info": {},
+    "counters": {},
+    "daily_counters": [],
+    "documents": {
+        "custom_cleared": true,
+        "pts": "ORIGINAL",
+        "year": 2020
+    },
+    "grouping_info": null,
+    "hash": "47490a58",
+    "id": "16291290",
+    "price_info": {
+        "price": 4299000,
+        "currency": "RUR",
+        "EUR": 52024,
+        "RUR": 4299000,
+        "USD": 56264
+    },
+    "price_history": [
+        {
+            "EUR": 52024,
+            "RUR": 4299000,
+            "USD": 56264,
+            "create_timestamp": 1579512394000
+        }
+    ],
+    "recall_info": {},
+    "saleId": "16291290-47490a58",
+    "salon": {
+        "actual_stock": true,
+        "client_id": "45076",
+        "code": "atlant_spectehnika_moskva",
+        "dealer_id": "21762257",
+        "logo_url": "//avatars.mds.yandex.net/get-verba/1672712/2a0000016fc21849a7885ab91ac54c0d4383/dealer_logo",
+        "offer_counters": {
+            "trucks_all": 5
+        },
+        "name": "АТЛАНТ Спецтехника",
+        "phones": [
+            {
+                "phone": "+7 499 375-85-60"
+            }
+        ],
+        "place": {
+            "address": "32-й километр, МКАД",
+            "coord": {
+                "latitude": 55.574711,
+                "longitude": 37.61733
+            },
+            "geobase_id": "213",
+            "region_info": {
+                "id": "213",
+                "name": "Москва",
+                "genitive": "Москвы",
+                "dative": "Москве",
+                "accusative": "Москву",
+                "prepositional": "Москве",
+                "preposition": "в",
+                "latitude": 55.753215,
+                "longitude": 37.622504,
+                "parent_ids": [
+                    "213",
+                    "1",
+                    "3",
+                    "225",
+                    "10001",
+                    "10000"
+                ]
+            }
+        },
+        "registration_date": "2020-01-18T11:44:52Z",
+        "salon_id": "38712",
+        "is_official": false
+    },
+    "seller": {
+        "location": {
+            "address": "Россия",
+            "coord": {
+                "latitude": 55.574711,
+                "longitude": 37.617329
+            },
+            "geobase_id": "213",
+            "region_info": {
+                "id": "213",
+                "name": "Москва",
+                "genitive": "Москвы",
+                "dative": "Москве",
+                "accusative": "Москву",
+                "prepositional": "Москве",
+                "preposition": "в",
+                "latitude": 55.753215,
+                "longitude": 37.622504,
+                "parent_ids": [
+                    "213",
+                    "1",
+                    "3",
+                    "225",
+                    "10001",
+                    "10000"
+                ]
+            },
+            "timezone_info": {
+                "abbr": "MSK",
+                "dst": false,
+                "name": "Europe/Moscow",
+                "offset": 10800
+            }
+        },
+        "name": "АТЛАНТ Спецтехника",
+        "phones": [],
+        "redirect_phones": false,
+        "chats_enabled": false,
+        "call_hours": {
+            "call_hour_start": 10,
+            "call_hour_end": 19,
+            "call_minute_end": 0,
+            "call_minute_start": 0
+        }
+    },
+    "service_prices": [],
+    "service_schedules": {},
+    "services": [],
+    "state": {
+        "state_not_beaten": true,
+        "image_urls": [
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2164965/5811abff3546d1d5c0b0f148b2076695/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2164965/5811abff3546d1d5c0b0f148b2076695/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2164965/5811abff3546d1d5c0b0f148b2076695/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2164965/5811abff3546d1d5c0b0f148b2076695/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9BLX46eCyp3a0kLqPmS4ieIqeOCGUY618z+H/ANsDXLzxrctbeIodZ0W3vl+02g04J5Vq0kmWEnBbCKOfXHGOa8l+K41jwpfanqMrTX9jLG8kUjRlC0gUHbj7oztIGDnketfLtt4rvP8AhIdUOlX8XhI3Ci4uDcoIy5yAUwx2jALHjrn8K+VqY7HSlUg6XLa1nra1+tvLbzPoqeCwiUJKpe+60ve3S/nufsn/AMNB+CHUSQ6v9qhAXe1vbTSlCxAQEKh68/l6kUV8H/sxeKdW+z6vb3+pLqmmzPEoN1F9k3MQ3RF2mRSCv3xjrjINFe/h51KlNSqWu/J/rqeNWjTp1HGGq9V+mh6T8RJHvtKcXLtcAmQnzTuzhhjrXGeHfC2i32v2UlzpFhcSRRsY3ltkYoeOQSOPwoorf7Rj9k67wroun2N9KltYW1ukk4LrFCqhiG4zgc0UUVUdjOW5/9k="
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2188061/9519bf6af9e1ebbac2dd8ae1ecbc523f/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2188061/9519bf6af9e1ebbac2dd8ae1ecbc523f/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2188061/9519bf6af9e1ebbac2dd8ae1ecbc523f/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2188061/9519bf6af9e1ebbac2dd8ae1ecbc523f/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD6r/4bA8QFJrK98Evpl0qkm+WSV4ogOWYq8SggAH+PtXP/AAr/AGtte1nSrnVtR1Gw1Oyml8q3EkAtyrdSAFJ3Dt97gg/SvMP2udPkgutKlj8TXenRzwtEwtgsoiK4K+YiruCbQy5HyjHJ6A/PNh8QtY+GSaZBfW1l4i8PyyyCzmsYk8x+fvIVOMknOP14r5zN8wxMKjhhaaUtOVe9ra7e+jb00vpZnsZdgqUqfPXqNrq/d02ttr87dT7t8O/tW3lnqUmlDSre+EEbXK2FmztdOjSHcQMElUJ7LyB1orx34K6Vp3iPU7/x5ejWPDt1d6bLpNgt1aKj25YhzPjLbsFmwCFHynmivTyqdT6rF4uPv9traLQ4MdGHt2sO/d/M7b4jadaXsaT3FrDPPHG6pLLGGZQTyATyK+ULzw/pcPxZjjj02zRDZwzFVgUDzGZdz4x949z1NFFdkviMIbH2N8NbaHU/hCjXkSXbGOLJnUOeQM9fXNFFFN9CEf/Z"
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2160970/399397eaa4545bbae339d4074af7a518/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2160970/399397eaa4545bbae339d4074af7a518/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2160970/399397eaa4545bbae339d4074af7a518/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2160970/399397eaa4545bbae339d4074af7a518/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDS8Kat4n8e3wtvtctvFIrEWWnllOwKSxbHJAUfxHt0r6G+FXxvtPAOjweHbSytJpks11CIO6QF4HyBKzHG75lbPBIGPpXxTF8StQ8O6RcQW8kX9mXXlreadJszewF8ZUsQQVYqwIIOe4wc8q0F347mt5NTjmsLWEiOCAH7RNKno7lhjsOByOM08PyV1KdSdnF2t30ui8VTqYbkjCndTV7/ADs/y2PuL4tfGk/EbSorG2cT3treLN9ssoQ8SqFlXbEc7vmBJyc9Bkg4WivnzwfrM+h6WYJtSaW0tP3SxyR7XAPIRJAzHcOhJyAMYA60Vu7f1/wTNNwWkr3/AAPJFhjm0YySIryG75dhk/dB611tioF7rYAGIrdhH/sfOg49OCR+NFFefS2Oytui5eki/wBOjBwnlp8vb7xHSiiivRRwPc//2Q=="
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2028593/9f7ca459b120cd5b64bbfed8027bbf36/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2028593/9f7ca459b120cd5b64bbfed8027bbf36/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2028593/9f7ca459b120cd5b64bbfed8027bbf36/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2028593/9f7ca459b120cd5b64bbfed8027bbf36/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD7qi/am8IXl1dWLy31hMcLFI1rv25XgnaWGQc8c8AV4J4r/aS8baXrrafa+IpNUVODPaW6KpIZQ2B5CkgBwcjr0B715V8eNS0TQLWyvNDuTEbiTa8+s2rx20TKpx8+QcnoBx0NeGz+L9Wn1QatD4x0GyvHtVhkeyhaR9pILryTnByeCCePevl8TmGMoVZUuRLs9Xftsnp+J72HwWGrU41OZ+a0Vu/Vf5H3BpX7QfjSC2gvI/EiahYyoHjabS3kU89MrGp6d885orxH9n61sPFHh6zWXWLia3spvIa2hQRLPBErCNo1ck8/J1P8LcnK4K+jwlaVaHNWjy9vNfdp6Hg4mkqM+WlLm/z/AF9Sxo11MqwkTSAupLEMfmPvU/w+1K8uJb3zbqeTE3G+QnHz49aKKhm6My61e+TxNlb24Uq52kSsMcE8c0UUVC2CW5//2Q=="
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2125735/afeedde0ab31a96c93792ed2a1095f40/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2125735/afeedde0ab31a96c93792ed2a1095f40/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2125735/afeedde0ab31a96c93792ed2a1095f40/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2125735/afeedde0ab31a96c93792ed2a1095f40/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD7P174zaP4evLeK4sLedriEyo9vcHYo/hyGA6184fEz4/eM9M1C40nwr5GnaNa/ukuYnQyXJ2Iocls/wB09Mfe56c62tfDv4iaa8iaBoeh3sUjvi51LU5J51BUYOSiLjgALtbH05rzdfh/8XodW+3+JPAdnr1nZh9ltYXlraq5ORuIClmx1AAB4Gc9K4ZY3Meb3Iwt6t/gOlgcvS9/mb9Ectqvxs8V6zetp+qaleXUcaSzSpJcb0Hyk5HOOp6gd6K82/aFv9X8OeJLGztbGbT7OTTI5EsJVKvH5gPmqXIDSAPvAYngcDFFfTYWtzUlKv8AE+x5FfDxjUcaPw+Z+n1qP36jtk8VJe8ROR1GaKK+X6Hsrc+Bv26VB8eeHGwNx01gW7keYaKKK9jD/wANHHU+Jn//2Q=="
+            }
+        ],
+        "mileage": 0,
+        "images_count": 5
+    },
+    "sub_category": "bulldozers",
+    "tags": [],
+    "vehicle_info": {
+        "bulldozer_type": "CRAWLERS_BULLDOZER",
+        "displacement": 14480,
+        "horse_power": 180,
+        "mark_info": {
+            "code": "CHTZ",
+            "name": "ЧТЗ"
+        },
+        "model_info": {
+            "code": "B_10M",
+            "name": "Б-10М"
+        },
+        "truck_category": "BULLDOZERS",
+        "equipment": {}
+    },
+    "lk_summary": "гусеничный бульдозер, 14.5 л (180 л.с.)"
+}

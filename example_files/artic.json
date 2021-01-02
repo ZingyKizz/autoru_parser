@@ -1,0 +1,238 @@
+{
+    "availability": "IN_STOCK",
+    "category": "trucks",
+    "old_category_id": 33,
+    "color_hex": "FAFBFB",
+    "description": "Седельный тягач MAN TGX 18.440 4x2 BLS c высокой и широкой кабиной XLX в комплектации Efficient Line (для экономии расхода топлива).\n\nВ наличии!\n\nКомплектация:\n\nПакет EfficientLine с аэродинамическим пакетом\nКолёсная база 3600 мм\nДвигатель D2066LF40 - 440 л.с. / 324 кВт, Евро-5 SCR\n- 2100 Н·м, Common-Rail, OBD2\nРегулируемый моторный тормоз (EVBec)\n1-цилиндровый воздушный компрессор 360 куб.см с системой Air Pressure Management (APM)\nМодуль управления для обмена внешними данными\n(KSM) с интерфейсом системы управления парком\nавтомобилей (FMS) и функциями кузова\nРегулируемый моторный тормоз (EVBec)\nРешетка радиатора для защиты от камней\nКоробка передач MAN TipMatic® 12 26 DD\nФункция коробки передач: EfficientRoll\nMAN EasyStart для КП TipMatic\nКомбинированный топливный бак, алюминиевый, 800 л\nтоплива и 85 л AdBlue справа, с подножкой, и 580 л\nслева\nМногофункциональное рулевое колесо\nСедельно-сцепное устройство JOST JSK 37 C, кон-\nструктивная высота 150 мм, с интегрированной смазкой\nАнтиблокировочная система (ABS)\nПротивобуксовочная система (ASR)\nЭлектронная система устойчивости (ESP)\nНижнее удлинение двери\nАэродинамический пакет для кабины с высокой\nкрышей, включая верхний обтекатель и боковые\nобтекатели, подвижна только правая боковая створка\nКомфортное сиденье водителя с пневматической амортизацией\nДополнительный воздушный отопитель EBERSPACHER\nD4S\nКондиционер, R134a, с автоматической регулировкой\nтемпературы\nОсвещение салона, красное/белое, в кабине\nИзоляция кабины NORDIC (от холода)\nПодлокотники водительского сиденья\n2 спальных места с ящиком (алюминиевая рама)\nШторки по периметру\nПоперечная шторка\nХолодильник под спальным местом полностью убирается\nВещевое отделение в задней стенке кабины со\nсветильником на гибком штативе, модулем управления, будильником и зарядной станцией\nПневморессоры на задней оси, устойчивые к низким\nтемпературам, для экстремальных климатических\nусловий\nЦифровая индикация нагрузки на оси (ALM) в кабине\nдля пневматической подвески\nЗвуковая сигнализация включенной передачи заднего\nхода на конце рамы\nФара рабочего освещения на кронштейне крыла справа\nСистема экстренного вызова 'ЭРА-Глонасс', только для\nРоссии\nАнтенна радиостанции на крыше кабины\nПодготовка под радиостанцию\nРадиоприемник MAN Media Truck 12 В с 5-дюймовым\nцветным дисплеем",
+    "is_favorite": false,
+    "section": "new",
+    "seller_type": "COMMERCIAL",
+    "status": "ACTIVE",
+    "delivery_info": {},
+    "additional_info": {
+        "hidden": false,
+        "is_on_moderation": false,
+        "update_date": "1586166623749",
+        "creation_date": "1581237592000",
+        "fresh_date": "1581237592000",
+        "chat_only": false,
+        "dealer_card_promo": "DONT_SHOW"
+    },
+    "autostrategies": [],
+    "credit_info": {},
+    "brand_cert_info": {},
+    "counters": {},
+    "daily_counters": [],
+    "documents": {
+        "custom_cleared": true,
+        "pts": "ORIGINAL",
+        "vin": "WMA**************",
+        "year": 2020
+    },
+    "grouping_info": null,
+    "hash": "975a1585",
+    "id": "15810706",
+    "price_info": {
+        "price": 7650000,
+        "currency": "RUR",
+        "EUR": 92576,
+        "RUR": 7650000,
+        "USD": 100121
+    },
+    "price_history": [
+        {
+            "EUR": 92576,
+            "RUR": 7650000,
+            "USD": 100121,
+            "create_timestamp": 1584098761000
+        }
+    ],
+    "recall_info": {},
+    "saleId": "15810706-975a1585",
+    "salon": {
+        "actual_stock": true,
+        "client_id": "346",
+        "code": "komdoravto",
+        "dealer_id": "21637605",
+        "offer_counters": {
+            "trucks_all": 15
+        },
+        "name": "КОМДОРАВТО",
+        "phones": [
+            {
+                "phone": "+7 926 209-97-57"
+            }
+        ],
+        "place": {
+            "address": "Автомобильный проезд, вл1с1",
+            "coord": {
+                "latitude": 55.914696,
+                "longitude": 37.589248
+            },
+            "geobase_id": "10740",
+            "region_info": {
+                "id": "10740",
+                "name": "Мытищи",
+                "genitive": "Мытищ",
+                "dative": "Мытищам",
+                "accusative": "Мытищи",
+                "prepositional": "Мытищах",
+                "preposition": "в",
+                "latitude": 55.910503,
+                "longitude": 37.73633,
+                "parent_ids": [
+                    "10740",
+                    "98596",
+                    "1",
+                    "3",
+                    "225",
+                    "10001",
+                    "10000"
+                ]
+            }
+        },
+        "registration_date": "2007-02-15T21:00:00Z",
+        "salon_id": "312",
+        "is_official": true
+    },
+    "seller": {
+        "location": {
+            "address": "Московская область, Россия",
+            "coord": {
+                "latitude": 55.914696,
+                "longitude": 37.589249
+            },
+            "geobase_id": "10740",
+            "region_info": {
+                "id": "10740",
+                "name": "Мытищи",
+                "genitive": "Мытищ",
+                "dative": "Мытищам",
+                "accusative": "Мытищи",
+                "prepositional": "Мытищах",
+                "preposition": "в",
+                "latitude": 55.910503,
+                "longitude": 37.73633,
+                "parent_ids": [
+                    "10740",
+                    "98596",
+                    "1",
+                    "3",
+                    "225",
+                    "10001",
+                    "10000"
+                ]
+            },
+            "timezone_info": {
+                "abbr": "MSK",
+                "dst": false,
+                "name": "Europe/Moscow",
+                "offset": 10800
+            }
+        },
+        "name": "КОМДОРАВТО",
+        "phones": [],
+        "redirect_phones": false,
+        "chats_enabled": false,
+        "call_hours": {
+            "call_hour_start": 0,
+            "call_hour_end": 0,
+            "call_minute_end": 0,
+            "call_minute_start": 0
+        }
+    },
+    "service_prices": [],
+    "service_schedules": {},
+    "services": [],
+    "state": {
+        "state_not_beaten": true,
+        "image_urls": [
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2163054/c31c7879d24c790aae2a7b878507504d/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2163054/c31c7879d24c790aae2a7b878507504d/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2163054/c31c7879d24c790aae2a7b878507504d/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2163054/c31c7879d24c790aae2a7b878507504d/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD7Yg+Oug6taTzw63Ym6SFvKjF0m5nIO1QM8kkcAehr5p8bftJeO21DVbK10O1trm1u1g06PU7SSb+041BMro4deQBkADJGTjHT5gPxVfwx4ptn1KW7/smG5trkzAs+8Ryq7qXclUBC4z15PWvdvA/xptfiT8JrrxPpmn32mX8dzNbTWNxOJljIxnZLtjGMOncYJIwcZrSlUlKN5Kz8nf8ARGM4JOyd0dTpX7ZngVdMVfFVzqHhvXXHyabaQySidsA7Q+1dpyQME4Gepor4E+LUuuPaaLbPruta9cWt9dgrq16LuS3VPJBKtwFVjuzjP3R0oqJVKieljupUsM4r2kmn5K/6o9EvFDCZSARtAwa+er3xNrHhnW9Yg0fVb7SYZDJvjsbl4VbnuFIz0H5UUVENzGR1HgRRe6HcG4AuCymQmX5st/eOe/vRRRU9QP/Z"
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/1981494/296a3b6aab55b0929ca9fa43d7f7fcd5/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/1981494/296a3b6aab55b0929ca9fa43d7f7fcd5/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/1981494/296a3b6aab55b0929ca9fa43d7f7fcd5/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/1981494/296a3b6aab55b0929ca9fa43d7f7fcd5/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD6Z8NfGr4dW+lQtpnibT9QVpDI8s+sBAobJ+cyOGXAzwcdCPat+z+NfhbxJ4quND8PS2WoS2tv508llcswzkAfvQCpwSc4JORg1+WY8TeMrPWY9J1PX/ET6LFcyw/a7OJ3lEYLFXIVOckjBycBiB/EK9C+HHxosfhN4g8Q6/ZQaxrmoanaNGI9Vs5oolk5ZDiONQBvxnp8ufrXR7TYycNz6dh/a4WTVxYajpfjLwU7tIyHxIvkrIoPLKVAwgzjJ9qK+dvHP7QN58Z/gzb2CQw6P4ztNX8+SOCO4aN4wXIkQyqQqksBtEjYx2GACpdSz3GoaE1vyOeflPWo7qGM3Yyin5QelFFcJ0lQIqxEhQDzyBRRRQB//9k="
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2154805/3ea6c24f8030fd5f011de483cf03340a/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2154805/3ea6c24f8030fd5f011de483cf03340a/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2154805/3ea6c24f8030fd5f011de483cf03340a/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2154805/3ea6c24f8030fd5f011de483cf03340a/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD1vW/j5pfhRre+tvHR1O2kZ3Js5nZU3sxCsvIUDaevHHFJ4b+JmofGbWJ5PDHjm5slt7LM0kNt5kjfM6KBu+RCuSSWjYncpB44+DvF/jzWLiwl0LxDexWuoWBhVnsrYOZ2LSuiKAVDDMmSzHjaoAwCDD4Ov7fT7RLm58aa54f1izvvMOmWMYWSbKxOpKh+UO0Hbs4JOc5405nv0JcYctvtfgfo58Rv2srv4Z6xHZPogCXUHmQXU9puikO1CRG4kXdjzACGUcqeTRXxZ8T/AIheL/jrocOm2qQ+HDY3EE9lc+TLGWQQlJVfzCSSXCsCFHBxRXFWnW5/3bVvM9nB/wBmqkliozc/7trfieQfH8/Zr3TZ4f3UwmJEicMCMEcjmvZPhvY20nhi2vGt4mu7hPMmnKAySOeSzN1JJ7miitn8CPI+0zpIEXy2O0Zx1xRRRXMbrY//2Q=="
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2175772/6600f2f28bf301f2345c0596f910d316/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2175772/6600f2f28bf301f2345c0596f910d316/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2175772/6600f2f28bf301f2345c0596f910d316/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2175772/6600f2f28bf301f2345c0596f910d316/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDQ0P8Abj1DQnuFuLaG4SNh5ZtZ1jeTGNxeMlh/+vt39l8CfFzQvjFBqd9e+Ir7SbmW4WxisodcktRIBBFJujjSROf3204zkp71+d3izwPa/DbfeeIrtNflu0cw2lsht1R1wSxYNnnI6Y74rmfB/jKJvFOnQXFzfHQ1YMdPLOY1YJgMAXPVlDf5FVTu1du69DorulOypQcXfunp22R+kXxT/aFtrz4ejR9I1W807xJZzx207IsirLhvLysigqNzYIDEcN7HBXz54L8Made6Jd3ej3M9jNqCsvnO/nRj58jMbHa4DKCA2frRSVVLSW5hVpJyvTVl63/yDxPY211CVmt4plUZCyIGAPrzXlHjLSbH7FI32O3yCMHyl4/SiiueHQuR7J8M4Y7bwtp6RIsSCIYVBgD8BRRRUvctbH//2Q=="
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/1860524/c45efcfb6d410e3f947bbac2b77832e2/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/1860524/c45efcfb6d410e3f947bbac2b77832e2/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/1860524/c45efcfb6d410e3f947bbac2b77832e2/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/1860524/c45efcfb6d410e3f947bbac2b77832e2/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD03xdrvg2zh846kCrAFQ8RhJU5+YeZtyOO2eoriNcXTrtNMTR7xJbm6uo08vyyWERBLnBwDjHrXyn4j8fpFejwvd2ejx2lldTAaxcaPbwk5+Y5Ug7hlSAdw4dema7HwT8fdE0Ca5n1nVY9TS3t5ZraGxeG2KsF37Qfm5bG0DHUjnjFfRLiDFONlbX7/wAzwllFGLvr/XyPcvCPi7w94v8AEh0jTdI1uKVHeJpb62SNWZMklRvLEYVjnGOPXiivGr39oSz8SeHp7i3vB4f1yC5Dxx3WoLOkfC4dSkSuflcjIUkfN2BwVpDiHGwSV0/VP9GinlOHm76r0f8AmXraCN7Z2aNS3qVGarJEjBsop+ooor88e59d0Jre1gKO3kx7vXaM0UUVaMz/2Q=="
+            }
+        ],
+        "mileage": 0,
+        "images_count": 14
+    },
+    "sub_category": "artic",
+    "tags": [],
+    "vehicle_info": {
+        "cabin": "SEAT_2_2_SLEEP",
+        "cabin_suspension": "MECHANICAL",
+        "displacement": 10518,
+        "engine": "DIESEL",
+        "equipment": {
+            "cruise-control": true,
+            "ptf": true,
+            "aero-deflector": true,
+            "mirrors-heat": true,
+            "salon-heater": true,
+            "electro-window": true,
+            "lighting-control": true,
+            "navigation": true,
+            "abs": true,
+            "dvd": true,
+            "air-conditioner": true,
+            "ebs": true,
+            "trip-computer": true,
+            "electro-mirrors": true
+        },
+        "horse_power": 440,
+        "mark_info": {
+            "code": "MAN",
+            "name": "MAN"
+        },
+        "model_info": {
+            "code": "TGX",
+            "name": "TGX"
+        },
+        "saddle_height": "SH_150",
+        "steering_wheel": "LEFT",
+        "transmission": "AUTOMATIC",
+        "truck_category": "ARTIC",
+        "wheel_drive": "WD_4x2"
+    },
+    "lk_summary": "10.5 л (440 л.с.)"
+}

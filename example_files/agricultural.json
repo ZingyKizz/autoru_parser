@@ -1,0 +1,219 @@
+{
+    "availability": "IN_STOCK",
+    "category": "trucks",
+    "old_category_id": 32,
+    "color_hex": "0000CC",
+    "description": "НОВЫЙ!! В НАЛИЧИИ В САМАРЕ!!\n\nМИНСКОЙ СБОРКИ!\n\nОФИЦИАЛЬНЫЙ ДИЛЕР!!\n\nМощность, л.с./кВт (81/59,6)\n\nМаксимальный крутящий момент, Н·м 298\n\nЧисло цилиндров, шт. 4\n\nРабочий объем, л 4,75\n\nЕмкость топливных баков, л 130\n\nТип колесная\n\nКолесная формула 4К4\n\nШины передние 11,2-20\n\nзадние 15,5R38\n\nЛизинг, кредит, трейд-ин!!!,\n\nСервис, запчасти.\n\nВыкупим вашу технику Hyundai Komatsu Hitachi Volvo JCB Terex DOOSAN CAT CASE по программе TRADE-IN",
+    "is_favorite": false,
+    "section": "new",
+    "seller_type": "COMMERCIAL",
+    "status": "ACTIVE",
+    "delivery_info": {},
+    "additional_info": {
+        "hidden": false,
+        "is_on_moderation": false,
+        "update_date": "1586178668262",
+        "creation_date": "1583907276000",
+        "fresh_date": "1583907276000",
+        "chat_only": false,
+        "dealer_card_promo": "SLEEP_PROMO"
+    },
+    "autostrategies": [],
+    "credit_info": {},
+    "brand_cert_info": {},
+    "counters": {},
+    "daily_counters": [],
+    "documents": {
+        "custom_cleared": true,
+        "pts": "ORIGINAL",
+        "vin": "Y4R**************",
+        "year": 2019
+    },
+    "grouping_info": null,
+    "hash": "b0f02274",
+    "id": "16167420",
+    "price_info": {
+        "price": 1420000,
+        "currency": "RUR",
+        "EUR": 17184,
+        "RUR": 1420000,
+        "USD": 18585
+    },
+    "price_history": [
+        {
+            "EUR": 17184,
+            "RUR": 1420000,
+            "USD": 18585,
+            "create_timestamp": 1583907276000
+        }
+    ],
+    "recall_info": {},
+    "saleId": "16167420-b0f02274",
+    "salon": {
+        "actual_stock": true,
+        "client_id": "9116",
+        "code": "rusbiznesavto_samara",
+        "dealer_id": "21774722",
+        "logo_url": "//avatars.mds.yandex.net/get-verba/787013/2a0000016fe66fb8487e623a0452f4aff0af/dealer_logo",
+        "offer_counters": {
+            "trucks_all": 30
+        },
+        "name": "Русбизнесавто Самара",
+        "phones": [
+            {
+                "phone": "+7 846 215-06-95"
+            }
+        ],
+        "place": {
+            "address": "Московское шоссе 20-й километр, 75, посёлок Мехзавод",
+            "coord": {
+                "latitude": 53.306971,
+                "longitude": 50.291319
+            },
+            "geobase_id": "51",
+            "region_info": {
+                "id": "51",
+                "name": "Самара",
+                "genitive": "Самары",
+                "dative": "Самаре",
+                "accusative": "Самару",
+                "prepositional": "Самаре",
+                "preposition": "в",
+                "latitude": 53.195538,
+                "longitude": 50.101783,
+                "parent_ids": [
+                    "51",
+                    "120861",
+                    "11131",
+                    "40",
+                    "225",
+                    "10001",
+                    "10000"
+                ]
+            }
+        },
+        "registration_date": "2013-11-28T08:43:02Z",
+        "salon_id": "9070",
+        "is_official": true
+    },
+    "seller": {
+        "location": {
+            "address": "Россия",
+            "coord": {
+                "latitude": 53.306973,
+                "longitude": 50.291321
+            },
+            "geobase_id": "51",
+            "region_info": {
+                "id": "51",
+                "name": "Самара",
+                "genitive": "Самары",
+                "dative": "Самаре",
+                "accusative": "Самару",
+                "prepositional": "Самаре",
+                "preposition": "в",
+                "latitude": 53.195538,
+                "longitude": 50.101783,
+                "parent_ids": [
+                    "51",
+                    "120861",
+                    "11131",
+                    "40",
+                    "225",
+                    "10001",
+                    "10000"
+                ]
+            },
+            "timezone_info": {
+                "abbr": "+04",
+                "dst": false,
+                "name": "Europe/Samara",
+                "offset": 14400
+            }
+        },
+        "name": "Русбизнесавто Самара",
+        "phones": [],
+        "redirect_phones": false,
+        "chats_enabled": false,
+        "call_hours": {
+            "call_hour_start": 9,
+            "call_hour_end": 18,
+            "call_minute_end": 0,
+            "call_minute_start": 0
+        }
+    },
+    "service_prices": [],
+    "service_schedules": {},
+    "services": [],
+    "state": {
+        "state_not_beaten": true,
+        "image_urls": [
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2058600/d93af93a7856fa1f36eac3e98259f041/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2058600/d93af93a7856fa1f36eac3e98259f041/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2058600/d93af93a7856fa1f36eac3e98259f041/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2058600/d93af93a7856fa1f36eac3e98259f041/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDR8bfE7RPCk17q97FcXVpqttJBCYY1kKzYyrNkgcHnrniuO1D9pbT/AAza6PG9jb6isAa8ZbqDzHcmWdvlHO1B9rYnI649q8y+IPj2Xxhpc/8AYfhyGbw3bXZs7ZPmE8sux2EgAyQwVemcfN0bqPLtcsLnx4HvrrTj4e020BjW0YuJsu2VRd65AXaOclsDnrmvVoywroTdePv6cu/fXbyPGrU8S61NUpe5rzaLtpv5/mfZnwG/aR1zx5rur+GvDk6aJHc3FzO+o2yDzYo2neVY4nOGCfOwxjj0GaK8z/Yw0M+F/iDrWrT6JJD4cNgI4ZXfzUEoIVuW+Yk4ZunHTpiivmsTX5Z2hov69T6LD0bwvJnhPw5u501zSYFmkWE30jGMOdpIhIBx64JH4n1rqfHSgWnAA+dv5miiuqp/Fic1P+Gz61+HCqNBUAADe/GP9o0UUV5lT436now+BH//2Q=="
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/1894015/34cd30be273db614d89dcafb3f5d386d/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/1894015/34cd30be273db614d89dcafb3f5d386d/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/1894015/34cd30be273db614d89dcafb3f5d386d/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/1894015/34cd30be273db614d89dcafb3f5d386d/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD27w9+1Homn/CabWvEGqx3WswowSxtmRri4wQEG3PDZIB6dCa8d0j9rO28RarHZa5exW+iNIJro3JZTCRnCru4kO4r8oCk4OB2ryrxf8QPDeo+G9e07w9LfDS7qQ6haxYEguJQxZJFUgGLchG/k7iobAbdu8N8KeJ4J7bU4r1IYmlKyPcy2LedFKCVj8t95IDF9pUdcA9uOmjB0ac6fKvf8l8rdjirRVWrCq27w21dtd79z9L4NTs/i1+07ol5pl/ba14c8C6M9zFPbyI6fb7slABtJBKwoSfQsKK+aPhj8X/A3wv1LwTq/hO5nn8QJbCDxLp92j/adRQ5eaVW/wBU+0l2UqeFgRQMFQCvDqUquns43X9f8OevGcF8crM8O0zTrSH4eafdR2sKXMbwhJljAdBuxgN1HHFcTfqEtNcKgApcArj+HD8Y9MUUV9G90eP0Z1GhW8Vz8PoPOiSXy5pCm9QdpIycZ6Zyfzooorme5Z//2Q=="
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/1970610/6e1439a00fc876a362267d085672e458/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/1970610/6e1439a00fc876a362267d085672e458/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/1970610/6e1439a00fc876a362267d085672e458/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/1970610/6e1439a00fc876a362267d085672e458/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDV/Y38d2Xwwfxr4LlkMJ0fVZ7i0B4xauAyH6bSp+r1veI9Qu7746zeMYLwrbtoSWNwFbMjSfaPNh46EBRJnPTcmM9vj3xJ4k8UfDPxVe6vqn9qeHDeWqC9spUR75YhjakgZUy4Qp8wCkAD7pr6z/Z70LwX458DPP4J1yPUvs8UbajM7Mk3mgkAypIzEE/Pyc528HpXVFQnq+v9fM5ZucNv6/y+9npVnrMMFjbapePFPqd8WWC2hIR5VU4ZnUnBYYHTtRXJar4I8I/Enw3rLXq2mtafo9rM2nahcRbopJ2UZZR3j3IMH+IAkEZGSvClOjzyipbPselzucYtxs7H5k/EXVr7UtY1S4u7y4uri4uJPOlnlZ3l5B+Yk5PIB57gVvfBrUbvTPHuipZ3M1ql0kUM6wSFBLG+d6OB95WwMg8HvRRXrQ+1/XRHNV+GP9dWfoJ4pdrPwjrVvbsYIBaRKIoztUDeBjA46cUUUV4eD2l6ms+h/9k="
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2165712/dc7e65d085fda79a9578ba87c98f4fc3/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2165712/dc7e65d085fda79a9578ba87c98f4fc3/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2165712/dc7e65d085fda79a9578ba87c98f4fc3/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2165712/dc7e65d085fda79a9578ba87c98f4fc3/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwBvhr9oS1sfB2jXEWiXUwNxHf5lYyLxJ5x3HPQydB2XA+noGoftHfDHVvDemXN4LHTzPAiOt0hl82VQDIA4GG54J59+tfK/iq5l8G/Di4itnLQQ6cY4fPAMjEqVX5uAzZBzj8hkV8xw3t5bzv8AarVN8A8rYI1WTqTkkL8xycZPYAdAK9nFfU48k8HOTbXvcySt5K269dTwsJTxs1OOMikk/dcW3f1vs9NlofpR8O/jd4J8LePhc2yX2p6RcW01v9psohsjJlV064GMZGB09qK+XPhHqVxB4R1BSYrZrSUyrbSRu8rKd2ThR0Gz09+lFezQnlfso8+JmpWV0oxav5HhYqjmqrSVPCwcU3Zuck7dLroch8SCTfvnnPlN+OUGfyrz7WWMepZQlSZVJK8ZOCc/mc0UV8dD4D7n7b/rudZINkcO35dtkmMcY5oooqZEM//Z"
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2073135/6ff0bf155ccfb37708df12100b9d02c1/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2073135/6ff0bf155ccfb37708df12100b9d02c1/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2073135/6ff0bf155ccfb37708df12100b9d02c1/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2073135/6ff0bf155ccfb37708df12100b9d02c1/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCvq3jy70fTpmMcs+1N7ndtKjcBxjgdR1rhJ/iTdXlpAIdEa8lmuEs442vdrb2+6Pu4xzjNJ4w8XWV5E39n3TJNFlHZ0faM9PuZO7gkdORWV4TbStQ1SbVNT0PUPFkMCFjHp80kZV8kqzt5bHAy3offrn9IzziWvSxNWlg6v7u6s1bsuqs9/M/I+G+D8FUwNGvjaDVbW6lfu1s9NvI7rTx4g8EfFe10nxBoH2DU9PEd3LYxXSXO7dt2fMpK/wAWevaivJNKvtfjvE1P+zL8weZ5c+oAzYUbduGbO3t39+KK/PcXjK2Oqe1xEuaVkr+h+l4XLqGAp+xw0eWO9lfqfRvwl0TTpvGEqyWFq6pdzSKGhUhWXy9rDjqMnB7Zr23xFPIZpP3jcMR94+9FFfNZn8aPpMB8JgeKVE3w68QJIBIjJEGVuQQZFzkUUUVngfgfqPGfGvQ//9k="
+            }
+        ],
+        "mileage": 0,
+        "images_count": 7
+    },
+    "sub_category": "agricultural",
+    "tags": [],
+    "vehicle_info": {
+        "agricultural_type": "WHEEL_TRACTOR",
+        "displacement": 4750,
+        "horse_power": 81,
+        "mark_info": {
+            "code": "MTZ",
+            "name": "МТЗ"
+        },
+        "model_info": {
+            "code": "MTZ_82_AGRICULTURAL",
+            "name": "МТЗ-82"
+        },
+        "operating_hours": 1,
+        "truck_category": "AGRICULTURAL",
+        "equipment": {}
+    },
+    "lk_summary": "колесный трактор, 4.8 л (81 л.с.)"
+}

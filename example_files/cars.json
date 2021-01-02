@@ -1,0 +1,536 @@
+{
+    "availability": "IN_STOCK",
+    "category": "cars",
+    "old_category_id": 15,
+    "color_hex": "040001",
+    "description": "Цена решает все? Звоните.\nМы умеем договариваться.\nАуди Центр Воронеж рад предложить вам:\n- Индивидуальные условия покупки на новые автомобили Audi;\n- Специальные условия при сдаче своего автомобиля в трейд-ин;\n- Уникальные кредитные программы и комфортные ежемесячные платежи;\n- Выдача автомобиля день в день;\n- 4 года гарантии.\nПодробности у менеджеров отдела продаж.\nМы готовы на всё, чтобы вы стали владельцем любимой модели Audi.\n__________________________________________________________\nДополнительные опции:\nОКРАСКА КУЗОВА:\n-Окраска кузова неметаллик;\nТЕХНОЛОГИИ/ХОДОВАЯ ЧАСТЬ:\n-Ассистент предотвращения самопроизвольного движения с электромеханическим ручным тормозом;\n-Система старт/стоп с системой рекуперации;\n-Выхлопные трубы: 2 патрубка слева для однопоточной системы (1.4 TFSI, 2.0 TDI, 2.0 TFSI);\nРУЛЬ:\n-Электромеханический усилитель рулевого управления;\n-Многофункциональный кожаный руль, дизайн «3 спицы»;\n-Безопасная рулевая колонка с механической регулировкой в 2-х направлениях;\nДИСКИ И ПОДВЕСКА:\n-Легкосплавные диски  7х16, дизайн \"5 рукавов\" шины 205/60 R16;\n-Динамическая подвеска;\n-Компактное запасное колесо.;\n-Дисковые тормоза спереди и сзади;\n-Колесные болты с защитой;\nВ КОМПЛЕКТАЦИЮ 40 TFSI S TRONIC:\n-Индикатор падения давления в шинах;\n-Зеркало заднего вида в салоне с автоматическим затемнением;\nФАРЫ:\n-Фары Xenon plusвключая светодиодные дневные ходовые огни, статическое освещение поворотов, электрокорректор угла наклона фар с автоматической системой стабилизации, омыватель фар;\n-Датчик света и дождя;\nЗЕРКАЛА:\n-Внешние зеркала заднего вида с электрической регулировкой и обогревом (левое - асферическое, правое - выпуклое);\n-Отделка внешних зеркал заднего вида в цвет кузова;\nОБИВКА СИДЕНИЙ И ОТДЕЛКА ИНТЕРЬЕРА:\n-Обивка сидений: ткань Index;\n-Обогрев передних сидений;\n-Cпинка заднего сиденья, раздельно складывающаяся в соотношении 1/3, 2/3 или полностью;\n-Датчик контроля использования ремня безопасности для передних сидений;\n-Механическая регулировка передних сидений;\nИНТЕРЬЕР:\n-Обивка потолка тканью;\n-Алюминиевые накладки на пороги;\nСИДЕНЬЯ:\n-Стандартные передние сиденья;\n-Крепления для детских сидений ISOFIX на боковых сидениях сзади с дополнительным креплением Top Tether;\nДЕКОРАТИВНЫЕ ВСТАВКИ:\n-Декоративные вставки, микрометаллик;\nКОМФОРТ:\n-Климат-контроль;\n-Пакет освещения салона- лампы для чтения впереди и сзади- отражатели в дверях- подсветка багажного отделения (слева) и перчаточного ящика;\n-Центральный передний подлокотник;\n-Теплозащитное остекление с зеленой защитной тонировкой, триплексное лобовое остекление;\nКЛИМАТ:\n-Дополнительный отопитель (для дизельных двигателей);\nИНФОРМАЦИОННО-РАЗВЛЕКАТЕЛЬНЫЕ СИСТЕМЫ:\n-MMI radio plusМультимедиа интерфейс Audi для управления системами автомобиля- Bluetooth-интерфейс для подключения мобильного телефона- монохромный дисплей 7\" (дюймов)- радио Concert и CD-проигрыватель- слот для карт SDXC- разъем USB- AUX-IN- система голосового управления (в том числе на русском языке)- GALA (регулировка гро",
+    "is_favorite": false,
+    "section": "new",
+    "seller_type": "COMMERCIAL",
+    "services": [
+        {
+            "service": "all_sale_special",
+            "is_active": true,
+            "prolongable": false
+        },
+        {
+            "service": "all_sale_premium",
+            "is_active": true,
+            "prolongable": false
+        },
+        {
+            "service": "all_sale_toplist",
+            "is_active": true,
+            "prolongable": false
+        },
+        {
+            "service": "all_sale_premium",
+            "is_active": true,
+            "prolongable": false
+        }
+    ],
+    "status": "ACTIVE",
+    "delivery_info": {},
+    "additional_info": {
+        "hidden": false,
+        "is_on_moderation": false,
+        "update_date": "1586186698000",
+        "creation_date": "1585126059000",
+        "mobile_autoservices_url": "https://m.auto.ru/autoservice/all_works/AUDI/?geo_id=193",
+        "hot_info": {
+            "is_hot": false,
+            "start_time": "2020-02-17T05:42:44Z",
+            "end_time": "2020-02-17T05:42:44Z"
+        },
+        "fresh_date": "1585126059000",
+        "counters_start_date": "1585126059000",
+        "chat_only": false,
+        "dealer_card_promo": "DONT_SHOW"
+    },
+    "autostrategies": [],
+    "credit_info": {},
+    "brand_cert_info": {},
+    "counters": {},
+    "daily_counters": [],
+    "discount_options": {},
+    "documents": {
+        "custom_cleared": true,
+        "pts": "ORIGINAL",
+        "vin": "WAU**************",
+        "year": 2019
+    },
+    "grouping_info": null,
+    "hash": "88efe21a",
+    "id": "1096046418",
+    "price_info": {
+        "price": 2299000,
+        "currency": "RUR",
+        "EUR": 27821,
+        "RUR": 2299000,
+        "USD": 30089
+    },
+    "price_history": [
+        {
+            "EUR": 27821,
+            "RUR": 2299000,
+            "USD": 30089,
+            "create_timestamp": 1585126059000
+        }
+    ],
+    "recall_info": {},
+    "saleId": "1096046418-88efe21a",
+    "salon": {
+        "actual_stock": true,
+        "client_id": "3700",
+        "code": "audi_centr_voronezh",
+        "dealer_id": "20134774",
+        "logo_url": "//avatars.mds.yandex.net/get-verba/937147/2a0000016860f3ef379b8a8c6d52e6501d98/dealer_logo",
+        "loyalty_program": true,
+        "offer_counters": {
+            "cars_all": 32
+        },
+        "name": "Ауди Центр Воронеж",
+        "phones": [
+            {
+                "phone": "+7 473 221-77-77"
+            }
+        ],
+        "place": {
+            "address": "автодорога Воронеж-Москва, 7-й км",
+            "coord": {
+                "latitude": 51.795873,
+                "longitude": 39.199852
+            },
+            "geobase_id": "193",
+            "region_info": {
+                "id": "193",
+                "name": "Воронеж",
+                "genitive": "Воронежа",
+                "dative": "Воронежу",
+                "accusative": "Воронеж",
+                "prepositional": "Воронеже",
+                "preposition": "в",
+                "latitude": 51.660781,
+                "longitude": 39.200269,
+                "parent_ids": [
+                    "193",
+                    "120842",
+                    "10672",
+                    "3",
+                    "225",
+                    "10001",
+                    "10000"
+                ]
+            }
+        },
+        "registration_date": "2013-02-05T20:00:00Z",
+        "salon_id": "3666",
+        "is_official": true
+    },
+    "seller": {
+        "location": {
+            "address": "- Москва",
+            "coord": {
+                "latitude": 51.795689,
+                "longitude": 39.19978
+            },
+            "geobase_id": "193",
+            "region_info": {
+                "id": "193",
+                "name": "Воронеж",
+                "genitive": "Воронежа",
+                "dative": "Воронежу",
+                "accusative": "Воронеж",
+                "prepositional": "Воронеже",
+                "preposition": "в",
+                "latitude": 51.660781,
+                "longitude": 39.200269,
+                "parent_ids": [
+                    "193",
+                    "120842",
+                    "10672",
+                    "3",
+                    "225",
+                    "10001",
+                    "10000"
+                ]
+            },
+            "timezone_info": {
+                "abbr": "MSK",
+                "dst": false,
+                "name": "Europe/Moscow",
+                "offset": 10800
+            }
+        },
+        "name": "Ауди Центр Воронеж",
+        "phones": [],
+        "redirect_phones": false,
+        "chats_enabled": false,
+        "call_hours": {
+            "call_hour_start": 9,
+            "call_hour_end": 21,
+            "call_minute_end": 0,
+            "call_minute_start": 0
+        }
+    },
+    "service_prices": [],
+    "service_schedules": {},
+    "state": {
+        "state_not_beaten": true,
+        "image_urls": [
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-verba/1535139/2a00000169589e3aa1008565199e540f30bd/small",
+                    "320x240": "//avatars.mds.yandex.net/get-verba/1535139/2a00000169589e3aa1008565199e540f30bd/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-verba/1535139/2a00000169589e3aa1008565199e540f30bd/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-verba/1535139/2a00000169589e3aa1008565199e540f30bd/1200x900n"
+                }
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-verba/937147/2a00000169589e474636fbe98e775473a05f/small",
+                    "320x240": "//avatars.mds.yandex.net/get-verba/937147/2a00000169589e474636fbe98e775473a05f/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-verba/937147/2a00000169589e474636fbe98e775473a05f/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-verba/937147/2a00000169589e474636fbe98e775473a05f/1200x900n"
+                }
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-verba/1030388/2a00000169589e52f17688661caf5f4669b5/small",
+                    "320x240": "//avatars.mds.yandex.net/get-verba/1030388/2a00000169589e52f17688661caf5f4669b5/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-verba/1030388/2a00000169589e52f17688661caf5f4669b5/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-verba/1030388/2a00000169589e52f17688661caf5f4669b5/1200x900n"
+                }
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-verba/1672712/2a00000169589e5d8174e84ad19f7c5745de/small",
+                    "320x240": "//avatars.mds.yandex.net/get-verba/1672712/2a00000169589e5d8174e84ad19f7c5745de/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-verba/1672712/2a00000169589e5d8174e84ad19f7c5745de/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-verba/1672712/2a00000169589e5d8174e84ad19f7c5745de/1200x900n"
+                }
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-verba/216201/2a00000169589e68dea8f749f39e687ce837/small",
+                    "320x240": "//avatars.mds.yandex.net/get-verba/216201/2a00000169589e68dea8f749f39e687ce837/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-verba/216201/2a00000169589e68dea8f749f39e687ce837/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-verba/216201/2a00000169589e68dea8f749f39e687ce837/1200x900n"
+                }
+            }
+        ],
+        "mileage": 0,
+        "images_count": 10
+    },
+    "sub_category": "cars",
+    "tags": [
+        "liquid",
+        "сomfort",
+        "options",
+        "handling",
+        "economical",
+        "medium",
+        "fivestars",
+        "prestige",
+        "low_mileage",
+        "dealer_quarantine_calls",
+        "safe_car",
+        "high_reviews_mark",
+        "catalog_photo"
+    ],
+    "vehicle_info": {
+        "configuration": {
+            "id": "20637561",
+            "body_type": "SEDAN",
+            "doors_count": 4,
+            "auto_class": "D",
+            "human_name": "Седан",
+            "trunk_volume_min": 480,
+            "body_type_group": "SEDAN",
+            "main_photo": {
+                "sizes": {
+                    "orig": "//avatars.mds.yandex.net/get-verba/787013/2a0000016090358a3513690850fcf485d70a/orig",
+                    "wizardv3mr": "//avatars.mds.yandex.net/get-verba/787013/2a0000016090358a3513690850fcf485d70a/wizardv3mr",
+                    "cattouch": "//avatars.mds.yandex.net/get-verba/787013/2a0000016090358a3513690850fcf485d70a/cattouch"
+                }
+            },
+            "tags": [
+                "liquid",
+                "medium",
+                "fivestars"
+            ]
+        },
+        "complectation": {
+            "id": "20938331",
+            "name": "Basis",
+            "available_options": [
+                "multi-wheel",
+                "xenon",
+                "airbag-passenger",
+                "lock",
+                "door-sill-panel",
+                "electro-mirrors",
+                "mirrors-heat",
+                "start-stop-function",
+                "automatic-lighting-control",
+                "computer",
+                "seat-transformation",
+                "light-cleaner",
+                "fabric-seats",
+                "airbag-side",
+                "abs",
+                "wheel-leather",
+                "climate-control-1",
+                "roller-blind-for-rear-window",
+                "esp",
+                "usb",
+                "audiopreparation",
+                "front-centre-armrest",
+                "servo",
+                "steering-wheel-gear-shift-paddles",
+                "electro-window-back",
+                "16-inch-wheels",
+                "condition",
+                "park-assist-r",
+                "airbag-driver",
+                "isofix",
+                "aux",
+                "electro-window-front",
+                "light-sensor",
+                "hcc",
+                "airbag-curtain",
+                "leather-gear-stick",
+                "rain-sensor",
+                "tyre-pressure",
+                "voice-recognition",
+                "audiosystem-cd",
+                "front-seats-heat",
+                "bluetooth",
+                "wheel-configuration2",
+                "wheel-configuration1",
+                "immo",
+                "12v-socket",
+                "third-rear-headrest"
+            ],
+            "vendor_colors": [
+                {
+                    "body_color_id": 21444304,
+                    "mark_color_id": 21386826,
+                    "name_ru": "Mythos black",
+                    "hex_codes": [
+                        "010101"
+                    ],
+                    "color_type": "METALLIC",
+                    "stock_color": {
+                        "hex_code": "040001",
+                        "name_ru": "черный"
+                    },
+                    "photos": [
+                        {
+                            "name": "34-front",
+                            "sizes": {
+                                "orig": "//avatars.mds.yandex.net/get-verba/1535139/2a00000169589e3aa1008565199e540f30bd/orig",
+                                "wizardv3mr": "//avatars.mds.yandex.net/get-verba/1535139/2a00000169589e3aa1008565199e540f30bd/wizardv3mr",
+                                "cattouch": "//avatars.mds.yandex.net/get-verba/1535139/2a00000169589e3aa1008565199e540f30bd/cattouch",
+                                "small": "//avatars.mds.yandex.net/get-verba/1535139/2a00000169589e3aa1008565199e540f30bd/small",
+                                "320x240": "//avatars.mds.yandex.net/get-verba/1535139/2a00000169589e3aa1008565199e540f30bd/320x240",
+                                "1200x900": "//avatars.mds.yandex.net/get-verba/1535139/2a00000169589e3aa1008565199e540f30bd/1200x900",
+                                "1200x900n": "//avatars.mds.yandex.net/get-verba/1535139/2a00000169589e3aa1008565199e540f30bd/1200x900n",
+                                "thumb_m": "//avatars.mds.yandex.net/get-verba/1535139/2a00000169589e3aa1008565199e540f30bd/thumb_m",
+                                "full": "//avatars.mds.yandex.net/get-verba/1535139/2a00000169589e3aa1008565199e540f30bd/full",
+                                "832x624": "//avatars.mds.yandex.net/get-verba/1535139/2a00000169589e3aa1008565199e540f30bd/832x624",
+                                "456x342": "//avatars.mds.yandex.net/get-verba/1535139/2a00000169589e3aa1008565199e540f30bd/456x342",
+                                "120x90": "//avatars.mds.yandex.net/get-verba/1535139/2a00000169589e3aa1008565199e540f30bd/120x90",
+                                "92x69": "//avatars.mds.yandex.net/get-verba/1535139/2a00000169589e3aa1008565199e540f30bd/92x69"
+                            }
+                        },
+                        {
+                            "name": "34-back",
+                            "sizes": {
+                                "orig": "//avatars.mds.yandex.net/get-verba/937147/2a00000169589e474636fbe98e775473a05f/orig",
+                                "wizardv3mr": "//avatars.mds.yandex.net/get-verba/937147/2a00000169589e474636fbe98e775473a05f/wizardv3mr",
+                                "cattouch": "//avatars.mds.yandex.net/get-verba/937147/2a00000169589e474636fbe98e775473a05f/cattouch",
+                                "small": "//avatars.mds.yandex.net/get-verba/937147/2a00000169589e474636fbe98e775473a05f/small",
+                                "320x240": "//avatars.mds.yandex.net/get-verba/937147/2a00000169589e474636fbe98e775473a05f/320x240",
+                                "1200x900": "//avatars.mds.yandex.net/get-verba/937147/2a00000169589e474636fbe98e775473a05f/1200x900",
+                                "1200x900n": "//avatars.mds.yandex.net/get-verba/937147/2a00000169589e474636fbe98e775473a05f/1200x900n",
+                                "thumb_m": "//avatars.mds.yandex.net/get-verba/937147/2a00000169589e474636fbe98e775473a05f/thumb_m",
+                                "full": "//avatars.mds.yandex.net/get-verba/937147/2a00000169589e474636fbe98e775473a05f/full",
+                                "832x624": "//avatars.mds.yandex.net/get-verba/937147/2a00000169589e474636fbe98e775473a05f/832x624",
+                                "456x342": "//avatars.mds.yandex.net/get-verba/937147/2a00000169589e474636fbe98e775473a05f/456x342",
+                                "120x90": "//avatars.mds.yandex.net/get-verba/937147/2a00000169589e474636fbe98e775473a05f/120x90",
+                                "92x69": "//avatars.mds.yandex.net/get-verba/937147/2a00000169589e474636fbe98e775473a05f/92x69"
+                            }
+                        },
+                        {
+                            "name": "side",
+                            "sizes": {
+                                "orig": "//avatars.mds.yandex.net/get-verba/1030388/2a00000169589e52f17688661caf5f4669b5/orig",
+                                "wizardv3mr": "//avatars.mds.yandex.net/get-verba/1030388/2a00000169589e52f17688661caf5f4669b5/wizardv3mr",
+                                "cattouch": "//avatars.mds.yandex.net/get-verba/1030388/2a00000169589e52f17688661caf5f4669b5/cattouch",
+                                "small": "//avatars.mds.yandex.net/get-verba/1030388/2a00000169589e52f17688661caf5f4669b5/small",
+                                "320x240": "//avatars.mds.yandex.net/get-verba/1030388/2a00000169589e52f17688661caf5f4669b5/320x240",
+                                "1200x900": "//avatars.mds.yandex.net/get-verba/1030388/2a00000169589e52f17688661caf5f4669b5/1200x900",
+                                "1200x900n": "//avatars.mds.yandex.net/get-verba/1030388/2a00000169589e52f17688661caf5f4669b5/1200x900n",
+                                "thumb_m": "//avatars.mds.yandex.net/get-verba/1030388/2a00000169589e52f17688661caf5f4669b5/thumb_m",
+                                "full": "//avatars.mds.yandex.net/get-verba/1030388/2a00000169589e52f17688661caf5f4669b5/full",
+                                "832x624": "//avatars.mds.yandex.net/get-verba/1030388/2a00000169589e52f17688661caf5f4669b5/832x624",
+                                "456x342": "//avatars.mds.yandex.net/get-verba/1030388/2a00000169589e52f17688661caf5f4669b5/456x342",
+                                "120x90": "//avatars.mds.yandex.net/get-verba/1030388/2a00000169589e52f17688661caf5f4669b5/120x90",
+                                "92x69": "//avatars.mds.yandex.net/get-verba/1030388/2a00000169589e52f17688661caf5f4669b5/92x69"
+                            }
+                        },
+                        {
+                            "name": "front",
+                            "sizes": {
+                                "orig": "//avatars.mds.yandex.net/get-verba/1672712/2a00000169589e5d8174e84ad19f7c5745de/orig",
+                                "wizardv3mr": "//avatars.mds.yandex.net/get-verba/1672712/2a00000169589e5d8174e84ad19f7c5745de/wizardv3mr",
+                                "cattouch": "//avatars.mds.yandex.net/get-verba/1672712/2a00000169589e5d8174e84ad19f7c5745de/cattouch",
+                                "small": "//avatars.mds.yandex.net/get-verba/1672712/2a00000169589e5d8174e84ad19f7c5745de/small",
+                                "320x240": "//avatars.mds.yandex.net/get-verba/1672712/2a00000169589e5d8174e84ad19f7c5745de/320x240",
+                                "1200x900": "//avatars.mds.yandex.net/get-verba/1672712/2a00000169589e5d8174e84ad19f7c5745de/1200x900",
+                                "1200x900n": "//avatars.mds.yandex.net/get-verba/1672712/2a00000169589e5d8174e84ad19f7c5745de/1200x900n",
+                                "thumb_m": "//avatars.mds.yandex.net/get-verba/1672712/2a00000169589e5d8174e84ad19f7c5745de/thumb_m",
+                                "full": "//avatars.mds.yandex.net/get-verba/1672712/2a00000169589e5d8174e84ad19f7c5745de/full",
+                                "832x624": "//avatars.mds.yandex.net/get-verba/1672712/2a00000169589e5d8174e84ad19f7c5745de/832x624",
+                                "456x342": "//avatars.mds.yandex.net/get-verba/1672712/2a00000169589e5d8174e84ad19f7c5745de/456x342",
+                                "120x90": "//avatars.mds.yandex.net/get-verba/1672712/2a00000169589e5d8174e84ad19f7c5745de/120x90",
+                                "92x69": "//avatars.mds.yandex.net/get-verba/1672712/2a00000169589e5d8174e84ad19f7c5745de/92x69"
+                            }
+                        },
+                        {
+                            "name": "back",
+                            "sizes": {
+                                "orig": "//avatars.mds.yandex.net/get-verba/216201/2a00000169589e68dea8f749f39e687ce837/orig",
+                                "wizardv3mr": "//avatars.mds.yandex.net/get-verba/216201/2a00000169589e68dea8f749f39e687ce837/wizardv3mr",
+                                "cattouch": "//avatars.mds.yandex.net/get-verba/216201/2a00000169589e68dea8f749f39e687ce837/cattouch",
+                                "small": "//avatars.mds.yandex.net/get-verba/216201/2a00000169589e68dea8f749f39e687ce837/small",
+                                "320x240": "//avatars.mds.yandex.net/get-verba/216201/2a00000169589e68dea8f749f39e687ce837/320x240",
+                                "1200x900": "//avatars.mds.yandex.net/get-verba/216201/2a00000169589e68dea8f749f39e687ce837/1200x900",
+                                "1200x900n": "//avatars.mds.yandex.net/get-verba/216201/2a00000169589e68dea8f749f39e687ce837/1200x900n",
+                                "thumb_m": "//avatars.mds.yandex.net/get-verba/216201/2a00000169589e68dea8f749f39e687ce837/thumb_m",
+                                "full": "//avatars.mds.yandex.net/get-verba/216201/2a00000169589e68dea8f749f39e687ce837/full",
+                                "832x624": "//avatars.mds.yandex.net/get-verba/216201/2a00000169589e68dea8f749f39e687ce837/832x624",
+                                "456x342": "//avatars.mds.yandex.net/get-verba/216201/2a00000169589e68dea8f749f39e687ce837/456x342",
+                                "120x90": "//avatars.mds.yandex.net/get-verba/216201/2a00000169589e68dea8f749f39e687ce837/120x90",
+                                "92x69": "//avatars.mds.yandex.net/get-verba/216201/2a00000169589e68dea8f749f39e687ce837/92x69"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        "equipment": {
+            "cruise-control": true,
+            "roller-blind-for-rear-window": true,
+            "esp": true,
+            "usb": true,
+            "multi-wheel": true,
+            "xenon": true,
+            "airbag-passenger": true,
+            "front-centre-armrest": true,
+            "lock": true,
+            "door-sill-panel": true,
+            "servo": true,
+            "electro-mirrors": true,
+            "steering-wheel-gear-shift-paddles": true,
+            "electro-window-back": true,
+            "16-inch-wheels": true,
+            "mirrors-heat": true,
+            "park-assist-r": true,
+            "start-stop-function": true,
+            "airbag-driver": true,
+            "aux": true,
+            "isofix": true,
+            "electro-window-front": true,
+            "light-sensor": true,
+            "hcc": true,
+            "automatic-lighting-control": true,
+            "airbag-curtain": true,
+            "passenger-seat-updown": true,
+            "computer": true,
+            "seat-transformation": true,
+            "light-cleaner": true,
+            "fabric-seats": true,
+            "leather-gear-stick": true,
+            "rain-sensor": true,
+            "airbag-side": true,
+            "tyre-pressure": true,
+            "voice-recognition": true,
+            "audiosystem-cd": true,
+            "abs": true,
+            "front-seats-heat": true,
+            "bluetooth": true,
+            "wheel-leather": true,
+            "wheel-configuration2": true,
+            "wheel-configuration1": true,
+            "immo": true,
+            "climate-control-1": true,
+            "12v-socket": true,
+            "third-rear-headrest": true
+        },
+        "mark_info": {
+            "code": "AUDI",
+            "name": "Audi",
+            "ru_name": "Ауди",
+            "logo": {
+                "name": "mark-logo",
+                "sizes": {
+                    "logo": "//avatars.mds.yandex.net/get-verba/997355/2a000001651f4baeb0ee7d9d292ce0db5e9a/logo",
+                    "big-logo": "//avatars.mds.yandex.net/get-verba/997355/2a000001651f4baeb0ee7d9d292ce0db5e9a/dealer_logo"
+                }
+            }
+        },
+        "model_info": {
+            "code": "A4",
+            "name": "A4",
+            "ru_name": "А4",
+            "morphology": {},
+            "nameplate": {
+                "code": "",
+                "name": "",
+                "semantic_url": ""
+            }
+        },
+        "steering_wheel": "LEFT",
+        "super_gen": {
+            "id": "20637504",
+            "name": "V (B9)",
+            "ru_name": "5 (B9)",
+            "year_from": 2015,
+            "price_segment": "PREMIUM"
+        },
+        "tech_param": {
+            "id": "20637668",
+            "displacement": 1395,
+            "engine_type": "GASOLINE",
+            "gear_type": "FORWARD_CONTROL",
+            "transmission": "ROBOT",
+            "power": 150,
+            "power_kvt": 110,
+            "human_name": "1.4 AMT (150 л.с.)",
+            "acceleration": 8.5,
+            "clearance_min": 140,
+            "fuel_rate": 4.9
+        },
+        "vendor": "EUROPEAN"
+    },
+    "owner_expenses": {
+        "transport_tax": {
+            "tax_by_year": 4500,
+            "year": 2020,
+            "rid": 10672,
+            "rate": 30,
+            "horse_power": 150,
+            "holding_period_month": 12,
+            "boost": 1
+        },
+        "osago_insurance": [
+            {
+                "insurance_company": "TINKOFF",
+                "price": 4140
+            }
+        ]
+    },
+    "lk_summary": "1.4 AMT (150 л.с.), седан, передний, бензин"
+}

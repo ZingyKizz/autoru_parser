@@ -1,0 +1,198 @@
+{
+    "availability": "IN_STOCK",
+    "category": "trucks",
+    "old_category_id": 32,
+    "color_hex": "FAFBFB",
+    "description": "Прямое предложение от производителя!\nНовый 2020 года с ПТС\n\n- Субсидированный лизинг 250 000 р\n- Дополнительное оборудование или сервисные пакеты по специальной цене\n- Индивидуальные условия приобретения\n\nЯпонский грузовой автомобиль (шасси под застройку) FUSO Canter TF\n\nБазовая комплектация\nЭкстерьер\nТрехсекионный бампер окрашенный в цвет кабины\nРешетка радиатора окрашена в цвет кузова\nГалогеновые фары\nСтеклоочистители с интегрированными форсунками омывателя (с прерывистым режимом работы)\nНаружные зеркала заднего вида с обогревом\nИнструментальный ящик (закреплен на лонжероне)\nИнтерьер\nЭргономичное кресло водителя с регулировкой по длине и наклону\nУлучшенная текстильная обивка сидений (темная)\nРукоятки на передних стойках для облегчения посадки в кабину\nПодлокотник (каждой двери)\nЛампа внутреннего освещения кабины\nПепельница (каждой двери)\nПрикуриватель\nВешалка для верхней одежды\nПодстаканник\nПотолочные ниши\n2 солнцезащитных козырька\nКарман (на спинке сидения водителя)\nКарманы в обивке двери (водителя и пассажира)\nЗапираемый бардачок для хранения важных документов (на панели приборов)\nПерчаточный ящик\nСпинка-столик (центрального сидения)\nМногофункциональный дисплей в панели приборов(расход топлива, температура охлаждающей жидкости, уровень масла)\nАудио система\nЭлектрические стеклоподъемники боковых дверей\nОтопитель кабины\nКондиционер\nПротивотуманные фары\nЦентральный замок\nРычаг переключения передач, встроенный в панель приборов\nЗапирающаяся крышка топливного бака\nРадиальная бескамерная шина (+ запасное колесо и механизм его крепления)\nБезопасность\nТелескопическая и регулируемая по углу наклона рулевая колонка\n3-х точечные ремни безопасности водителя и переднего пассажира с аварийно запирающимся втягивающим устройством\n2-х точечные ремни безопасности центрального пассажира\nПенополиуретановое рулевое колесо\nПредупредительный звуковой сигнал заднего хода (синхронизированный с передачей заднего хода)\nПередние и задние стабилизаторы поперечной устойчивости\nАнтиблокировочная система (ABS)\nСистема распределения тормозных усилий (EBD)\nЭлектронная система курсовой устойчивости (ESP)\nСистема Эра Глонасс\nЗащита АКБ\nГарантия на автомобиль: 3 года либо 200 тыс. км пробега.\nМежсервисный интервал: 20 тыс. км.\n\nПроизводитель: ООО ”АвтоКрафт” (г.Владимир)\n\nТип надстройки: Мусоровоз с задней загрузкой производства компании KATMERCILER (Турция)\n\nТехнические характеристики:\n\n· Объём кузова полезный - 8 м3;\n\n· Объем загрузочного бункера полезный - 1,1 м3;\n\n· Рабочее давление 180 бар, максимальное давление 200 бар;\n\n· Коэффициент уплотнения мусора до 6:1, в зависимости от типа мусора;\n\n· Сечение кузова - овальное;\n\n· Материал кузова - сталь ST-52;\n\n· Материал загрузочного бункера - высокопрочная сталь HARDOX 450;\n\n· Кантователь с универсальным захватом для загрузки всех типов отечественных контейнеров и евроконтейнеров;\n\n· Тандемный гидронасос итальянского производства;\n\n· Цвет надстройки - на выбор (cогласно таблице цветов RAL).",
+    "is_favorite": false,
+    "section": "new",
+    "seller_type": "COMMERCIAL",
+    "status": "ACTIVE",
+    "delivery_info": {},
+    "additional_info": {
+        "hidden": false,
+        "is_on_moderation": false,
+        "update_date": "1586184667544",
+        "creation_date": "1585666694000",
+        "fresh_date": "1585666694000",
+        "chat_only": false,
+        "dealer_card_promo": "DONT_SHOW"
+    },
+    "autostrategies": [],
+    "credit_info": {},
+    "brand_cert_info": {},
+    "counters": {},
+    "daily_counters": [],
+    "documents": {
+        "custom_cleared": true,
+        "pts": "ORIGINAL",
+        "year": 2020
+    },
+    "grouping_info": null,
+    "hash": "429afad9",
+    "id": "16402360",
+    "price_info": {
+        "price": 4806000,
+        "currency": "RUR",
+        "EUR": 58160,
+        "RUR": 4806000,
+        "USD": 62900
+    },
+    "price_history": [
+        {
+            "EUR": 58160,
+            "RUR": 4806000,
+            "USD": 62900,
+            "create_timestamp": 1585666693000
+        }
+    ],
+    "recall_info": {},
+    "saleId": "16402360-429afad9",
+    "salon": {
+        "actual_stock": true,
+        "client_id": "43698",
+        "code": "fuso_dkrus",
+        "dealer_id": "21699631",
+        "offer_counters": {
+            "trucks_all": 312
+        },
+        "name": "FUSO DKRUS",
+        "phones": [
+            {
+                "phone": "+7 916 540-65-21"
+            }
+        ],
+        "place": {
+            "address": "улица Панфилова, 19с4",
+            "coord": {
+                "latitude": 55.880748,
+                "longitude": 37.432286
+            },
+            "geobase_id": "10758",
+            "region_info": {
+                "id": "10758",
+                "name": "Химки",
+                "genitive": "Химок",
+                "dative": "Химкам",
+                "accusative": "Химки",
+                "prepositional": "Химках",
+                "preposition": "в",
+                "latitude": 55.88874,
+                "longitude": 37.43039,
+                "parent_ids": [
+                    "10758",
+                    "120988",
+                    "1",
+                    "3",
+                    "225",
+                    "10001",
+                    "10000"
+                ]
+            }
+        },
+        "registration_date": "2019-10-11T06:22:49Z",
+        "salon_id": "37334",
+        "is_official": true
+    },
+    "seller": {
+        "location": {
+            "address": "Московская область, Россия",
+            "coord": {
+                "latitude": 55.880749,
+                "longitude": 37.432285
+            },
+            "geobase_id": "10758",
+            "region_info": {
+                "id": "10758",
+                "name": "Химки",
+                "genitive": "Химок",
+                "dative": "Химкам",
+                "accusative": "Химки",
+                "prepositional": "Химках",
+                "preposition": "в",
+                "latitude": 55.88874,
+                "longitude": 37.43039,
+                "parent_ids": [
+                    "10758",
+                    "120988",
+                    "1",
+                    "3",
+                    "225",
+                    "10001",
+                    "10000"
+                ]
+            },
+            "timezone_info": {
+                "abbr": "MSK",
+                "dst": false,
+                "name": "Europe/Moscow",
+                "offset": 10800
+            }
+        },
+        "name": "FUSO DKRUS",
+        "phones": [],
+        "redirect_phones": false,
+        "chats_enabled": false,
+        "call_hours": {
+            "call_hour_start": 0,
+            "call_hour_end": 0,
+            "call_minute_end": 0,
+            "call_minute_start": 0
+        }
+    },
+    "service_prices": [],
+    "service_schedules": {},
+    "services": [],
+    "state": {
+        "state_not_beaten": true,
+        "image_urls": [
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2105933/79251ca597d4b7828f9208c9aa7d59f3/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2105933/79251ca597d4b7828f9208c9aa7d59f3/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2105933/79251ca597d4b7828f9208c9aa7d59f3/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2105933/79251ca597d4b7828f9208c9aa7d59f3/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDw/wCCX/BOnxl8dfD1n4kn8R6N4Z0i9jWdDIZJ7ny3LbT5agLkqA2C+cMucZIGF8Tv2X/hd4A+1/avHviFlh1a40dCmiRXIlltkged8GWIKubnAUMSdp57j1f4b/tMfFD4WaHa6NFpAs9Lt7a3tYIbfTxcRJ5UEcO+U58w7hHnC98+taHwu/aR0r/hI9f0Hxrp2j6j4D1jVXv9SvLqxeOKK7nG5D9ml3swDRBSw2n5s9BU3t0K3erPhTxB4Ebwxq13YtPI9xYXPkToYjEysr7eNrsDk9/piivsz4wfGbw9470DxH4T8Mtp+n6RGH08SRQKizqrfujFj5hHhF5yD905Izgo5kKzPSbPmA55+Wud+PHh/S5/hS+oS6bZyX8d0VS6eBDKo29A2MgUUVQj5l0yNWi5UHkDke1FFFYvc0Wx/9k="
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2176138/fa283e6d837513b98de952aec7046236/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2176138/fa283e6d837513b98de952aec7046236/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2176138/fa283e6d837513b98de952aec7046236/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2176138/fa283e6d837513b98de952aec7046236/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD82dA0DU/E+s2WlaPp13qep3TrHb2doXkllbeflRVyc9ePx716FYfs1fFp5Ylf4YeMLdWZFMlxpF3FGPn/AImZAAPU5GBz619C/CD4veBvglZeG10OfUtReYWsupyXtysFrbSKBJLFDEcENu6uVIJbhu1fQuof8FHfDGoWa2seh397IWWNILW+hkkkJ4wBgZqVJMdmfn94p+DPjn4W2VjqXiLw1qGk2c5XyrmdiEb5v7wyF6jk+oI60V9kePv2l/hv8e/gJ4k8M3k91pGrhJfsFjfWzs/mRASxHev7vGV2YLDPTHTJVNJlRnKOiNiTwjoUwJk0XT3PHLWsZ/pU1h4F8Nvp9+zeHtKZlUYJsosj/wAdooqY7Es5m40HTLIFbfTrSAYHEUCr6+goooqhH//Z"
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2161312/68e42663a3287aef205afcc197e5496e/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2161312/68e42663a3287aef205afcc197e5496e/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2161312/68e42663a3287aef205afcc197e5496e/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2161312/68e42663a3287aef205afcc197e5496e/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD4V+DP7NfjD47Sag3hyG0gtbGRIri9vJzFErPvwBhSzEbeQASMj1r6gsf2BfB/h62gXxBr+savczyCBhZxRxCNjklkQqxbHz/LuHQeuK4z4S/FXxP+zV4ak0dPCtvJA7NcT3c8MrPO/wA21d6uAoA2gAqcfMc/NXsXhP8Aav0nxvpt2uotbeHPEltdfY5NHluN6zBig3qxVeQxb5Qcjac5BpJ8y0DZnzp8Xv2Z0+FmhWHivQb3VNQ8OS3wsn/tKx+y3VvICdu9Y3cDOCM+uOBmivr/AOMfxe8E/Fn4LeI7NLOG4v8AUkktIbSO6kXMsL/uZWWPbtKuiE7hhtp5I4opaPUuM5R0Ry/iK1hvPDN7HcQxzoYjlZFDA8ehrzT4deF9Gg0pJY9IsI5RdN862yBuBkc4ooprYlnps+n2qW67baFcnnEY54NFFFMR/9k="
+            }
+        ],
+        "mileage": 0,
+        "images_count": 3
+    },
+    "sub_category": "municipal",
+    "tags": [],
+    "vehicle_info": {
+        "engine": "DIESEL",
+        "horse_power": 175,
+        "mark_info": {
+            "code": "FUSO",
+            "name": "Fuso (Mitsubishi)"
+        },
+        "model_info": {
+            "code": "CANTER_MUNICIPAL",
+            "name": "Canter"
+        },
+        "municipal_type": "GARBAGE_TRUCK",
+        "truck_category": "MUNICIPAL",
+        "equipment": {}
+    },
+    "lk_summary": "мусоровоз, (175 л.с.)"
+}

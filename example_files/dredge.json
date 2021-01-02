@@ -1,0 +1,179 @@
+{
+    "availability": "IN_STOCK",
+    "category": "trucks",
+    "old_category_id": 32,
+    "color_hex": "FFD600",
+    "description": "Своевременное техническое обслуживание.  Готов к эксплуатации.",
+    "is_favorite": false,
+    "section": "new",
+    "seller_type": "COMMERCIAL",
+    "status": "ACTIVE",
+    "delivery_info": {},
+    "additional_info": {
+        "hidden": false,
+        "is_on_moderation": false,
+        "update_date": "1586157033043",
+        "creation_date": "1583910608000",
+        "fresh_date": "1583910608000",
+        "chat_only": false,
+        "dealer_card_promo": "SLEEP_PROMO"
+    },
+    "autostrategies": [],
+    "credit_info": {},
+    "brand_cert_info": {},
+    "counters": {},
+    "daily_counters": [],
+    "documents": {
+        "custom_cleared": true,
+        "pts": "ORIGINAL",
+        "year": 2020
+    },
+    "grouping_info": null,
+    "hash": "c890794c",
+    "id": "16372526",
+    "price_info": {
+        "price": 10000000,
+        "currency": "RUR",
+        "EUR": 121015,
+        "RUR": 10000000,
+        "USD": 130877
+    },
+    "price_history": [
+        {
+            "EUR": 121015,
+            "RUR": 10000000,
+            "USD": 130877,
+            "create_timestamp": 1583910607000
+        }
+    ],
+    "recall_info": {},
+    "saleId": "16372526-c890794c",
+    "salon": {
+        "actual_stock": true,
+        "client_id": "45748",
+        "code": "john_deere_act",
+        "dealer_id": "21828117",
+        "offer_counters": {
+            "trucks_all": 2
+        },
+        "name": "John Deere ACT",
+        "phones": [
+            {
+                "phone": "+7 499 113-20-67"
+            }
+        ],
+        "place": {
+            "address": "Можайское шоссе, 166",
+            "coord": {
+                "latitude": 55.70918,
+                "longitude": 37.380929
+            },
+            "geobase_id": "213",
+            "region_info": {
+                "id": "213",
+                "name": "Москва",
+                "genitive": "Москвы",
+                "dative": "Москве",
+                "accusative": "Москву",
+                "prepositional": "Москве",
+                "preposition": "в",
+                "latitude": 55.753215,
+                "longitude": 37.622504,
+                "parent_ids": [
+                    "213",
+                    "1",
+                    "3",
+                    "225",
+                    "10001",
+                    "10000"
+                ]
+            }
+        },
+        "registration_date": "2020-03-02T09:40:43Z",
+        "salon_id": "39380",
+        "is_official": true
+    },
+    "seller": {
+        "location": {
+            "address": "Можайское шоссе, 166",
+            "coord": {
+                "latitude": 55.709179,
+                "longitude": 37.380928
+            },
+            "geobase_id": "213",
+            "region_info": {
+                "id": "213",
+                "name": "Москва",
+                "genitive": "Москвы",
+                "dative": "Москве",
+                "accusative": "Москву",
+                "prepositional": "Москве",
+                "preposition": "в",
+                "latitude": 55.753215,
+                "longitude": 37.622504,
+                "parent_ids": [
+                    "213",
+                    "1",
+                    "3",
+                    "225",
+                    "10001",
+                    "10000"
+                ]
+            },
+            "timezone_info": {
+                "abbr": "MSK",
+                "dst": false,
+                "name": "Europe/Moscow",
+                "offset": 10800
+            }
+        },
+        "name": "John Deere ACT",
+        "phones": [],
+        "redirect_phones": false,
+        "chats_enabled": false,
+        "call_hours": {
+            "call_hour_start": 9,
+            "call_hour_end": 17,
+            "call_minute_end": 0,
+            "call_minute_start": 0
+        }
+    },
+    "service_prices": [],
+    "service_schedules": {},
+    "services": [],
+    "state": {
+        "state_not_beaten": true,
+        "image_urls": [
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2156142/065c5cdf60db67df426d50f33b314bb5/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2156142/065c5cdf60db67df426d50f33b314bb5/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2156142/065c5cdf60db67df426d50f33b314bb5/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2156142/065c5cdf60db67df426d50f33b314bb5/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDT+OnijT/ih4j+FWneFdcMJvdVcSSwriW1fdEquQ3cAyEdjiuxv9C+LvwasrjU7Sey+IehW6tPcwSjybkIvzMY0H3cL2VnBxwgJr5T0exW11Ozl1jVbS30wSq0V3ZlZZIiQQu+NT05OSDkYP0qbxn401DwT4jeTTNda/t1TEV1buUbcw6hQcgYOM9Dj3FeSs3mq3I43m1e6ul27NfK5t9RmqKnZWva3X/P5n3X4P8AjV4G8c22kLY61ZpqWpR7o9NkmUTqw+8hX+8CPxGCOCKK/M3wr4svtG8RxeJGWC8vfMLNFf2zOu7BUsBgqx24OTyD64zRXZVzivCVoU1Lz5rfoxQy+Eldya+V/wBUO1CeSDRUeORo2JjJZWIJ+T/65/OtfwzBHJa22+NW3fe3AHPJ60UV4E/hZ71PdFi5iRrK3yinC5GR0O1f8TRRRWcdjR7n/9k="
+            }
+        ],
+        "mileage": 0,
+        "images_count": 1
+    },
+    "sub_category": "dredge",
+    "tags": [],
+    "vehicle_info": {
+        "bucket_volume": 2,
+        "displacement": 6068,
+        "dredge_type": "CAREER_EXCAVATOR",
+        "horse_power": 277,
+        "mark_info": {
+            "code": "JOHN_DEERE",
+            "name": "John Deere"
+        },
+        "model_info": {
+            "code": "E330LC",
+            "name": "E330LC"
+        },
+        "truck_category": "DREDGE",
+        "equipment": {}
+    },
+    "lk_summary": "карьерный экскаватор, 6.1 л (277 л.с.)"
+}

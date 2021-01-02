@@ -1,0 +1,214 @@
+{
+    "availability": "IN_STOCK",
+    "category": "trucks",
+    "old_category_id": 32,
+    "color_hex": "FFD600",
+    "description": "Погрузчик в наличии!\n\nУтилизационный сбор включен стоимость.\nРеальная гарантия на фронтальные погрузчики 12 месяцев или 1500 м/ч с момента ввода в эксплуатацию.\n\nКомпания «ОТЦ» официальный дилер марки XCMG на территории РФ. Экспортная модель для РФ, техника сертифицирована по Российским и международным стандартам. \n\nОбслуживание техники по месту эксплуатации, собственный сервисный центр, склад запчастей.\n\nПоставляем технику по выгодным ценам.\nОперативная помощь по любому вопросу приобретения и обслуживания спецтехники.\n\nГибкие условия финансирования, лизинг с минимальным удорожанием, беспроцентная рассрочка.\nОперативная доставка по всей территории России.\n10 лет опыта продаж и обслуживания техники ведущих производителей КНР.\n\nВозможная комплектация:\n- Угольный ковш (4 м3)\n- Лесозахват\n- Джойстик\n- Кондиционер\n\nОсновные характеристики:\nГрузоподъемность: 5000кг\nОбъем ковша: 3,00 м3\nВысота выгрузки: 3000 мм\nГабаритные размеры: 8010 x 3016 x 3350 мм\nСнаряженная масса: 16900 кг\nМощность двигателя: 220 л.с.\nМодель двигателя: WD615G.220 \n\nТехника прошла предпродажную подготовку:\n• Шприцевание (точечная смазка).\n• Протяжка узлов и соединений.\n• Проверка уровня жидкостей.\n\nПрочие характеристики:\n\nДлина x Ширина x Высота: 8010 x 3016 x 3350 мм\nКолесная база: 2900 мм\nГрузоподъемность: 5000 кг\nВес погрузчика: 16,9т\nСкорость на I передаче (вперед/назад): до 13,5 / до 17 км/ч\nСкорость на II передаче (вперед): до 38 км/ч\nМаксимальное вырывное усилие: 158 кН\nМаксимальный угол подъема: 28 градусов\nВысота выгрузки: 3200 мм\nДистанция выгрузки: 1274 мм\nМаксимальная глубина копания: 80 мм\n\nВремя подъема ковша: 5.6 секунд\nВремя рабочего цикла: 9.9 секунд\nМинимальный радиус поворота: 6172 мм (по крайним габаритам)\nУгол шарнирного сочленения: 35 град\nДвигатель: WD615G.220\nМощность: 162 кВт при 2200 об/мин\nРасход топлива менее: 238 г/кВт*ч\nРасход масла менее: 2 г/кВт*ч\nЗапуск: электрический\nПоджиг смеси: электрический\nСцепление: ZF F&5340\nТип сцепления: одноуровневое трехэлементное\nДиаметр цилиндра сцепления: 340 мм\n\nКоэффициент конверсии сцепления: 2,55\nОхлаждение сцепления: путем циркуляции масла\nКоробка передач ZL50 c гидравлическим управлением\nСкорости: 2 вперед и 1 назад\nПередаточное число I передача (вперед/назад): 2.115 /1.577\nПередаточное число II передача (вперед): 0.578\nШины: 23,5-25\nТормозная система: гидравлическая на 4 колеса\nУправление: BZZ3-125 гидравлическое\nГидронасос управления: CBGj2080\nДавление системы: 15 MPa\nЦилиндры управления: 90 x 340 мм\nУсиленные клапаны системы управления: ZLF25A1\nОграничительные клапаны системы управления: XF-B6\nГлавный гидронасос рабочей системы: CBGg3100/1010\n\nДавление рабочей системы: 17,5 MPa\nРаспределитель рабочей системы: D32\nУправляющий клапан рабочей системы: DJS2-UX/UV\nСелективный клапан рабочей системы: SF8\nЦилиндры стрелы рабочей системы: 160 x 850 мм",
+    "is_favorite": false,
+    "section": "new",
+    "seller_type": "COMMERCIAL",
+    "status": "ACTIVE",
+    "delivery_info": {},
+    "additional_info": {
+        "hidden": false,
+        "is_on_moderation": false,
+        "update_date": "1586174174713",
+        "creation_date": "1586174167054",
+        "fresh_date": "1586174167054",
+        "chat_only": false,
+        "dealer_card_promo": "SLEEP_PROMO"
+    },
+    "autostrategies": [],
+    "credit_info": {},
+    "brand_cert_info": {},
+    "counters": {},
+    "daily_counters": [],
+    "documents": {
+        "custom_cleared": true,
+        "pts": "ORIGINAL",
+        "year": 2019
+    },
+    "grouping_info": null,
+    "hash": "119bc865",
+    "id": "15336519",
+    "price_info": {
+        "price": 4500000,
+        "currency": "RUR",
+        "EUR": 54457,
+        "RUR": 4500000,
+        "USD": 58895
+    },
+    "price_history": [
+        {
+            "EUR": 54457,
+            "RUR": 4500000,
+            "USD": 58895,
+            "create_timestamp": 1586174167000
+        }
+    ],
+    "recall_info": {},
+    "saleId": "15336519-119bc865",
+    "salon": {
+        "actual_stock": true,
+        "client_id": "36713",
+        "code": "komtrans77_moskva",
+        "dealer_id": "21336190",
+        "offer_counters": {
+            "trucks_all": 20
+        },
+        "name": "ОТЦ",
+        "phones": [
+            {
+                "phone": "+7 933 336-12-08"
+            }
+        ],
+        "place": {
+            "address": "улица Горбунова, 2с3",
+            "coord": {
+                "latitude": 55.726436,
+                "longitude": 37.399591
+            },
+            "geobase_id": "213",
+            "region_info": {
+                "id": "213",
+                "name": "Москва",
+                "genitive": "Москвы",
+                "dative": "Москве",
+                "accusative": "Москву",
+                "prepositional": "Москве",
+                "preposition": "в",
+                "latitude": 55.753215,
+                "longitude": 37.622504,
+                "parent_ids": [
+                    "213",
+                    "1",
+                    "3",
+                    "225",
+                    "10001",
+                    "10000"
+                ]
+            }
+        },
+        "registration_date": "2018-07-04T10:37:47Z",
+        "salon_id": "30451",
+        "is_official": false
+    },
+    "seller": {
+        "location": {
+            "address": "улица Горбунова, 2с3",
+            "coord": {
+                "latitude": 55.726315,
+                "longitude": 37.399399
+            },
+            "geobase_id": "213",
+            "region_info": {
+                "id": "213",
+                "name": "Москва",
+                "genitive": "Москвы",
+                "dative": "Москве",
+                "accusative": "Москву",
+                "prepositional": "Москве",
+                "preposition": "в",
+                "latitude": 55.753215,
+                "longitude": 37.622504,
+                "parent_ids": [
+                    "213",
+                    "1",
+                    "3",
+                    "225",
+                    "10001",
+                    "10000"
+                ]
+            },
+            "timezone_info": {
+                "abbr": "MSK",
+                "dst": false,
+                "name": "Europe/Moscow",
+                "offset": 10800
+            }
+        },
+        "name": "ОТЦ",
+        "phones": [],
+        "redirect_phones": false,
+        "chats_enabled": false,
+        "call_hours": {
+            "call_hour_start": 9,
+            "call_hour_end": 18,
+            "call_minute_end": 0,
+            "call_minute_start": 0
+        }
+    },
+    "service_prices": [],
+    "service_schedules": {},
+    "services": [],
+    "state": {
+        "state_not_beaten": true,
+        "image_urls": [
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2057049/22e060a9eb487c591daa4dfbc44444c1/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2057049/22e060a9eb487c591daa4dfbc44444c1/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2057049/22e060a9eb487c591daa4dfbc44444c1/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2057049/22e060a9eb487c591daa4dfbc44444c1/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDW+OrL8I/B7amsVq16ZEVIroMwKknc21SGOMe3UVa+Hwt/EXh3S7rUooLLUrxVYQ2zNLGwPRg+MYP1P1NeVeI/Cniq9v7iS5u7bxZZT2a21zbazeyrJMoeN2CkKVjZhGVLgf8ALQk5qH4YQy+DPAN/o/jbw9f3lvFfG8sbfSG+1eXGVCmMEHKkY78EEd80ZjxVmFBSrYajzWsuXe6fVK61XXTbsLCcP4So1SrVWvPb9Ho/Xc+hJPC1g9t9pN3bi227hL5g2EeoNFfPXjl9K8ceGryx8OeHtb8KO8Ji+2Xq2plmUsCcqGZgOPVeCc9qK0wPE+PxNH2lajGm+z3/AAb/ADDEZFhKU+WFaUl3Vv8AgHoEDH7O5yc565+tQXXEiOOHwRuHWiivnz2epy2ryOkNyVYqdnUHFFFFbko//9k="
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2057283/99e81ffe1285183ad5ef57e6efe33635/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2057283/99e81ffe1285183ad5ef57e6efe33635/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2057283/99e81ffe1285183ad5ef57e6efe33635/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2057283/99e81ffe1285183ad5ef57e6efe33635/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCrffF7xEkkqXNrpsjR4LjzDlc9P4R1qXT/AIhy3krDULJLGFQTLdiN3jhAGSWwT/Tr+FYutaTf+CdYtL2aO7u7V7lGvp9KsJ5ne3GA2EUNyF7kgcZqD4q/HD4a6d4cjh8J6xe3etTSFJ7XUrGS2aGMDJ4cAlmOAB6Z9q4sbxXmlHFQw2CoSnGW8ui7+n5s66GQ4GVF1cRUUZdEj0X4V25+I2gJqLeQ100kgaKDoihvlyNzEHBHfkg44or5S+CnjPxfD4k1SW3s72e11eJ0msobxYcytKsgcEgqSNuMkZ5I6GivvY5/VhFRlFNrzPlXlKlJuMtPQ+ntavbga3LELiURqx2pvOBx2FU4LG21LZHd28V1G7/Mk6BwcrzkH1oor88hufYy2PWNIt4tNt7eC0iS1gUHbFAoRR9AOKKKKwnubR2P/9k="
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2155199/1aea16156bf935fd2e4f2fbd321406ae/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2155199/1aea16156bf935fd2e4f2fbd321406ae/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2155199/1aea16156bf935fd2e4f2fbd321406ae/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2155199/1aea16156bf935fd2e4f2fbd321406ae/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD2Lxt+0vFpur39pp+mW2pWlvIyJew3avG4BPzcEY+leX+Jv2prrTtO1G6nsNOtRb27yIj73Z5MfImFbuSPwye1eU+P9csfh0jWMxija5RtsswJL4Iyy9ief4ex5r5z8WeItS8YXkVtHaX11IoUQCBS6O3mOSWHBb5CgAI6AjuTXdRzvE1ZNUk1Fde/p/Xmc9TKKFKKdRpyfTt6n2p4P/aF1Lxpp0Vxb2GnNckMWgjVzkB2XdjfnHyg/jRXyd4Qg8Z6T40/tAaJq1tGwUCKKAxJ/qwr/u2TZgnnOOnpRXpxzmtb35WfqcMstpp2gtD6e09RdXFsJgJgG4Eg3Y4Pr9BW6bWEXM6iJAuE42jHSiivg5n1UTEUkeOCgJCbMbe2NvSiiiuSRuj/2Q=="
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2063097/17c66d5a333cc3e2a13a2c79a0edddb5/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2063097/17c66d5a333cc3e2a13a2c79a0edddb5/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2063097/17c66d5a333cc3e2a13a2c79a0edddb5/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2063097/17c66d5a333cc3e2a13a2c79a0edddb5/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCC9+Fc1naSSG23uqMyIxwGIGcdD/KuL+GHg7xX401C7urhNOj8NLOtt9pCFWWQkAgYJ4G5c5z16ir/AIw034lSaXo+maYbrULW3g8u4YXySxsufmDCXaZGILjpgAr6VxsvjjxF8PrLUdN8H+EvFF9ocd0ZoUj0mQMGwApbjCsTnOMkADPSuzNOIcwxkYwyxKnPvLVWvZ3S0vazine+t9jmwOT0MO3LGyc12Wj26X19bHqGkeAotY1rXdOsbeS4k0a5+zXLLFwDjKsMZ4YciivN/D2ieNfHOgNql/ptvpV/Ictaazp1zG7AngtKMOSFVFBGMBV7jNFOPEua0oxhNQlJJXdt31fxLffRIqWS4WcnKEpJPZf0j355XW0uWDsGWNiCDyD7V3mhxIloAqKoPJwMZPrRRXx09j6NblXXgP3wxwKKKKiOxsj/2Q=="
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2068491/c56906ab4b3681b3e0cb27c405aede0b/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2068491/c56906ab4b3681b3e0cb27c405aede0b/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2068491/c56906ab4b3681b3e0cb27c405aede0b/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2068491/c56906ab4b3681b3e0cb27c405aede0b/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDubD9pC5sNT0+212GC6+13SW4htMBxlkBJbAAOHyBjnHbjPm/xD+OepRyTzz6sNKgM0EdrNZyBBE+S7b8thkKqB8wbkMDkEAafiHRvGvgaxn8RW2l+GNWt7EiY6Tb2AvZ2xtBYM8ayk/LkgSDvgDGK+KvGvik6ho8ck17G1zJcb2t5FlWaJeQFYFQgxgdCT0966aWaYmviFKM/cXS+/wBxlLLsPSpOMo+8+p+rXgsf8Jf4es9ThaKZZkUs8OfLJIByp5yCCCOT160V+fn7On7Q+o+Bby4stV1TV7zw0Gje2soyZouEKkBTMm0cj64HpRX074grKyVNs+fWSxd/3h953qgpggEZPH4V5L8SfAXhmfQbm7k8O6TJd7v9e1jEZP8AvrbmiivyjA/xD9DxXwnyBpWnWv8AwsrT7X7ND9me8RWh8sbGG8cFehFFFFfV1t0eJT6n/9k="
+            }
+        ],
+        "mileage": 0,
+        "images_count": 21
+    },
+    "sub_category": "autoloader",
+    "tags": [],
+    "vehicle_info": {
+        "autoloader_type": "FRONT_LOADERS",
+        "load_height": 3,
+        "mark_info": {
+            "code": "XCMG",
+            "name": "XCMG"
+        },
+        "model_info": {
+            "code": "LW___SERIES",
+            "name": "LW - series"
+        },
+        "operating_hours": 1,
+        "truck_category": "AUTOLOADER",
+        "equipment": {}
+    },
+    "lk_summary": "фронтальный погрузчик"
+}

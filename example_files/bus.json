@@ -1,0 +1,245 @@
+{
+    "availability": "IN_STOCK",
+    "category": "trucks",
+    "old_category_id": 34,
+    "color_hex": "CACECB",
+    "description": "Новый туристический автобус НЕМАН (420224-511) на базе IVECO Daily 70C17/P. \nВ наличии!\nВозможна продажа в лизинг или кредит.\nКондиционер с разводкой на пассажирами\nКоличество мест: 29+1\nДвигатель: 3л., Евро-5, 170 л.с.\nЗадняя пневмоподвеска, со стабилизатором поперечной устойчивости.\nПассажирские двери: Одна одностворчатая с электроприводом и одна аварийная в заднем свесе.\nЖидкостное отопление с помощью 4-х печек по 6,5 кВт каждая. В зимнее время охлаждающая жидкость прогревается с помощью автономного отопителя системы охлаждения ДВС мощностью 15 кВт.\nАвтобус подходит для закупок в тендер по 44 или 223 ФЗ.",
+    "is_favorite": false,
+    "section": "new",
+    "seller_type": "COMMERCIAL",
+    "services": [
+        {
+            "service": "all_sale_special",
+            "is_active": true,
+            "prolongable": false
+        },
+        {
+            "service": "all_sale_toplist",
+            "is_active": true,
+            "prolongable": false
+        },
+        {
+            "service": "all_sale_premium",
+            "is_active": true,
+            "prolongable": false
+        }
+    ],
+    "status": "ACTIVE",
+    "delivery_info": {},
+    "additional_info": {
+        "hidden": false,
+        "is_on_moderation": false,
+        "update_date": "1586167283575",
+        "creation_date": "1586159001453",
+        "fresh_date": "1586159001453",
+        "chat_only": false,
+        "dealer_card_promo": "SLEEP_PROMO"
+    },
+    "autostrategies": [],
+    "credit_info": {},
+    "brand_cert_info": {},
+    "counters": {},
+    "daily_counters": [],
+    "documents": {
+        "custom_cleared": true,
+        "pts": "ORIGINAL",
+        "vin": "ZCF**************",
+        "year": 2020
+    },
+    "grouping_info": null,
+    "hash": "3cd254ff",
+    "id": "16028128",
+    "price_info": {
+        "price": 5250000,
+        "currency": "RUR",
+        "EUR": 63533,
+        "RUR": 5250000,
+        "USD": 68711
+    },
+    "price_history": [
+        {
+            "EUR": 63533,
+            "RUR": 5250000,
+            "USD": 68711,
+            "create_timestamp": 1586159002000
+        }
+    ],
+    "recall_info": {},
+    "saleId": "16028128-3cd254ff",
+    "salon": {
+        "actual_stock": true,
+        "client_id": "34844",
+        "code": "sts_servis",
+        "dealer_id": "21278643",
+        "offer_counters": {
+            "trucks_all": 11
+        },
+        "name": "Стандард Трак Сервисиз",
+        "phones": [
+            {
+                "phone": "+7 499 753-13-15"
+            },
+            {
+                "phone": "+7 916 993-42-43"
+            }
+        ],
+        "place": {
+            "address": "Котельнический проезд, 23В",
+            "coord": {
+                "latitude": 55.663598,
+                "longitude": 37.893059
+            },
+            "geobase_id": "10738",
+            "region_info": {
+                "id": "10738",
+                "name": "Люберцы",
+                "genitive": "Люберец",
+                "dative": "Люберцам",
+                "accusative": "Люберцы",
+                "prepositional": "Люберцах",
+                "preposition": "в",
+                "latitude": 55.676494,
+                "longitude": 37.898116,
+                "parent_ids": [
+                    "10738",
+                    "98594",
+                    "1",
+                    "3",
+                    "225",
+                    "10001",
+                    "10000"
+                ]
+            }
+        },
+        "registration_date": "2018-03-30T08:26:54Z",
+        "salon_id": "28606",
+        "is_official": true
+    },
+    "seller": {
+        "location": {
+            "address": "Котельнический проезд, 23В",
+            "coord": {
+                "latitude": 55.663597,
+                "longitude": 37.893059
+            },
+            "geobase_id": "10738",
+            "region_info": {
+                "id": "10738",
+                "name": "Люберцы",
+                "genitive": "Люберец",
+                "dative": "Люберцам",
+                "accusative": "Люберцы",
+                "prepositional": "Люберцах",
+                "preposition": "в",
+                "latitude": 55.676494,
+                "longitude": 37.898116,
+                "parent_ids": [
+                    "10738",
+                    "98594",
+                    "1",
+                    "3",
+                    "225",
+                    "10001",
+                    "10000"
+                ]
+            },
+            "timezone_info": {
+                "abbr": "MSK",
+                "dst": false,
+                "name": "Europe/Moscow",
+                "offset": 10800
+            }
+        },
+        "name": "Стандард Трак Сервисиз",
+        "phones": [],
+        "redirect_phones": false,
+        "chats_enabled": false,
+        "call_hours": {
+            "call_hour_start": 9,
+            "call_hour_end": 18,
+            "call_minute_end": 0,
+            "call_minute_start": 0
+        }
+    },
+    "service_prices": [],
+    "service_schedules": {},
+    "state": {
+        "state_not_beaten": true,
+        "image_urls": [
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2058055/be4f025893ed2701d56557d43cb3dfc4/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2058055/be4f025893ed2701d56557d43cb3dfc4/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2058055/be4f025893ed2701d56557d43cb3dfc4/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2058055/be4f025893ed2701d56557d43cb3dfc4/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD2u18D+D9MsHvNZ1aC0tPNMAuZnESCUZ+QFsAtweOvFZs1/wDBvSJozL4w0u7aTISBdSg3kjIOFVtxOR0xmvN9a8CXPjLTXtNTvnvYzOl1HDeSyPCkqBwjhVZSCBI/Q9+c4GOB8W/s6tJc2lxYeFlvUiEs8n9ma9L5jyBHKJ+/A2bpCmXXkAE4Ndf9tVmtJHM8shHoe+eINc+F0OlX1/aappSR2kQmmT+0FlnVSSMiBWMh6Z+7056UV4x4s8Eal8TdF0/w1Do+t+E9PlXzr93MsqJKuSqq0jbWTIT5VAGVBwCKKuWcTi7ORMcuUlex6fpjt5KDccema29LdhjDEfvH6H/aoor5M+gkdI7H9ycnJPPv1ooopMpH/9k="
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2164482/e7126962970308de77a84125894c9bea/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2164482/e7126962970308de77a84125894c9bea/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2164482/e7126962970308de77a84125894c9bea/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2164482/e7126962970308de77a84125894c9bea/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3P9sSWfU/gBrVrChlmmeONI2baGZiVUZ7ZLDmvhi68cax4I1zxlpNtot1qKSXa3MN5agzG1b7KM5j+6Q52EbjjKNwc10PxC8S+OLvQo7PWviJca9pd3L5U1vLJFsTCM6udjEjBQc19AWHxa8I6n8IodAv/iD4Oa8OmxxOH1yCOWSRVBA3byAcgDniuSNWpCtCvTlaya+9rX5W/EuVKM4OFRX2f5lj9kfxTbS/s/8Ai4+IZW03SptYunu5ri6axVIx5bGRnLDYPkB3Z6McdcUV4HNqema74EtfDd1eR6jpf26fUbux067jnNy8axRxLuUspXcGbOCDtBAyBgrro1qlCPJTm0vX5A3fVl6DwnoY8U+FIv7G0/yp9ZghlT7KmJEbduVhjkHuDxXs+u/CjwRC0vl+DtATCsRt0uAY/wDHaKK4VsjbuedftLaBpmh6P4H1HTdOtNP1C5hiE93awLFLL8o+86gFvxNFFFXS+BEVPiZ//9k="
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2157719/ca3b0a9d9152412de8a7c80795e5f365/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2157719/ca3b0a9d9152412de8a7c80795e5f365/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2157719/ca3b0a9d9152412de8a7c80795e5f365/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2157719/ca3b0a9d9152412de8a7c80795e5f365/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDxDwP8CviV4ViuhNeQalYadCsaSG5L+QrJ5mxC43FNpJ2DKZI+UmugRvEclrbI+t6YNQ/cxy6bHfsZY1aTaw2G3A+QckE4AHJNegeIviBfLolrbQeH7Uvfy2kbebCRG5WIKA6BhhmCgE7jk7sYzx5Xr15YQ/EO68P2WlfaLiFReFfNWSOQzQRSeSi9FCGV/mJzxz0ry8PWnXTcPT5nsYjDU8Nyxqbv8F3KvxX+B3iTW9K1S8bxBDpejWtlHd3FtIebnD7AAgb98Q33Q+doYYwKK7nTvFOlaH4Wm0/xbZsdLut4gSwdhvjG0pCBuxnIVugHU85NFaUZznG5jWoQpT5fn9/9XNTWp5G0bweTIxLahZ5JJ5+QnmvFfDTtb+NL65iYx3DavcIZkOHKmUAjPXBBIx70UVy5b/AX+J/mdWcf7z/26vyMXW7+5uYdIiluZZYkk+RHclV+bHAPTiiiivWh8K+f5s86fxfJfkj/2Q=="
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2023783/e229519ac23395c327de96051e871801/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2023783/e229519ac23395c327de96051e871801/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2023783/e229519ac23395c327de96051e871801/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2023783/e229519ac23395c327de96051e871801/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD2rx38TfDGn6ho8s99Bp8+m3jXmdRdoWIMEsTDYA0o4kzzHj5RzXF/HP4vS+GrTw/qOg28XilrqNyETdHCyMv8QJO47d7AkgfLnqMH4Yi1TVLR7aPTRbxxvOFM07kyx7htLb2zgY67cdTXpmu/Bffo+o3aa3dahrmnxLcvp18wijv41dCyw9yysq/LklxyOeKmGXQp6xu7b/1uayxkp6PS59PfB74q65f6PLfeEtWtryF5Wmn0nUx5oikLfvArKdyjdnozAHqAaK+Mbz43JpOtWer+FXax1KKZGk8lWVEVI2BVgQAzybsvgbf3cYyxHBWrhQlrKCuYqdRaRkzm7Y5WQdvT8a92+F97cL41+FLCeUFoBuIc8/6WU5/4D8v046UUV7f2H6HB9pHk1/EkPjHx5ZoipaR+JZtluoxGuJJVGF6D5fl+nFFFFfNS3R6iP//Z"
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2197795/51e4bd79a79b39eac62b1f12515ec044/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2197795/51e4bd79a79b39eac62b1f12515ec044/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2197795/51e4bd79a79b39eac62b1f12515ec044/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2197795/51e4bd79a79b39eac62b1f12515ec044/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDx3RfEt/F4QurOK3kk1mLUALW1dgXkgcBGdSxLAZmhAGMAL7Nja8S/tM+IPA+iR6Jfx2K60HuNHvpY4xLPaxnKTBckgCTb7ctnJql4w0u41nwtc6ks+yE3U9vPiMOVBAO4DsVZyU9Pm5Ga8V8V+AfEctzZxCWfXW1BFKXiKZJp3VsNuAJIbIB5OcMM9aj6jSxElTrKz3066PT8bnRHH1KUW4+9Hz6arX8Leh9+/Cm/0Hxn4ItfEG60ub65t0uLn7IQksTEZKkqQynJ/QUV4R8CvDOq+B9Ah1PxJqJvnh8u1sLZSgNm5cbFZ8EuNu58FiirGxII5BXw+Y4ytTxMqWB5HGOjc5OOvZWTvZW1+49ehWi6alWi7vsrmj4ciS40bxKkqLIi2N44VxkBg4IOPXgflU/wPtoZvjZ4JikiR45L63R0ZQQyljkEdwfSiivvsT/FXofNUvg+Z6P+1jbQ6R8ab9bCJLJVkvZlFuojAkFrFhxjHzDzH56/O3qaKKK+Cf8AvFX1/wAz3af8NH//2Q=="
+            }
+        ],
+        "mileage": 0,
+        "images_count": 7
+    },
+    "sub_category": "bus",
+    "tags": [],
+    "vehicle_info": {
+        "bus_type": "TOURIST",
+        "displacement": 2998,
+        "engine": "DIESEL",
+        "equipment": {
+            "abs": true,
+            "baggage": true,
+            "curtain": true
+        },
+        "horse_power": 170,
+        "mark_info": {
+            "code": "IVECO",
+            "name": "IVECO"
+        },
+        "model_info": {
+            "code": "DAILY_BUS",
+            "name": "Daily"
+        },
+        "seats": 30,
+        "steering_wheel": "LEFT",
+        "transmission": "MECHANICAL",
+        "truck_category": "BUS",
+        "wheel_drive": "WD_4x2"
+    },
+    "lk_summary": "туристический, 3.0 л (170 л.с.)"
+}

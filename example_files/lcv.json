@@ -1,0 +1,230 @@
+{
+    "availability": "IN_STOCK",
+    "category": "trucks",
+    "old_category_id": 31,
+    "color_hex": "FAFBFB",
+    "description": "Газель БИЗНЕС. Бортовой (кузовной). Удлиненная база. Число мест (вод.+пасс.): 1+5. Двигатель УМЗ-A275, БЕНЗИНОВЫЙ, 106,8 л.с., 2690 куб. см. Евро-5. Задний привод. ГУР, КПП 5-ступенчатая. Панель приборов \"Оптима\".\nЦена указана с учётом акции . Существуют кредитный и лизинговые программы.",
+    "is_favorite": false,
+    "section": "new",
+    "seller_type": "COMMERCIAL",
+    "status": "ACTIVE",
+    "delivery_info": {},
+    "additional_info": {
+        "hidden": false,
+        "is_on_moderation": false,
+        "update_date": "1586177454185",
+        "creation_date": "1586158865000",
+        "fresh_date": "1586158865000",
+        "chat_only": false,
+        "dealer_card_promo": "SLEEP_PROMO"
+    },
+    "autostrategies": [],
+    "credit_info": {},
+    "brand_cert_info": {},
+    "counters": {},
+    "daily_counters": [],
+    "documents": {
+        "custom_cleared": true,
+        "pts": "ORIGINAL",
+        "year": 2020
+    },
+    "grouping_info": null,
+    "hash": "1a8447df",
+    "id": "16330132",
+    "price_info": {
+        "price": 924325,
+        "currency": "RUR",
+        "EUR": 11186,
+        "RUR": 924325,
+        "USD": 12097
+    },
+    "price_history": [
+        {
+            "EUR": 11186,
+            "RUR": 924325,
+            "USD": 12097,
+            "create_timestamp": 1581511985000
+        }
+    ],
+    "recall_info": {},
+    "saleId": "16330132-1a8447df",
+    "salon": {
+        "actual_stock": true,
+        "client_id": "36203",
+        "code": "avtocentrgaz_rusavto_voronezh",
+        "dealer_id": "20667398",
+        "logo_url": "//avatars.mds.yandex.net/get-verba/1540742/2a0000016e942f4818e234921e72b6f8092a/dealer_logo",
+        "loyalty_program": true,
+        "offer_counters": {
+            "cars_all": 1,
+            "trucks_all": 5
+        },
+        "name": "АВТОЦЕНТРГАЗ РУСАВТО Воронеж",
+        "phones": [
+            {
+                "phone": "+7 473 200-04-44"
+            }
+        ],
+        "place": {
+            "address": "ул. Антонова-Овсеенко,7е",
+            "coord": {
+                "latitude": 51.690867,
+                "longitude": 39.127137
+            },
+            "geobase_id": "193",
+            "region_info": {
+                "id": "193",
+                "name": "Воронеж",
+                "genitive": "Воронежа",
+                "dative": "Воронежу",
+                "accusative": "Воронеж",
+                "prepositional": "Воронеже",
+                "preposition": "в",
+                "latitude": 51.660781,
+                "longitude": 39.200269,
+                "parent_ids": [
+                    "193",
+                    "120842",
+                    "10672",
+                    "3",
+                    "225",
+                    "10001",
+                    "10000"
+                ]
+            }
+        },
+        "registration_date": "2018-06-09T10:07:55Z",
+        "salon_id": "29941",
+        "is_official": true
+    },
+    "seller": {
+        "location": {
+            "address": "улица Антонова-Овсеенко, 7Е",
+            "coord": {
+                "latitude": 51.690868,
+                "longitude": 39.127136
+            },
+            "geobase_id": "193",
+            "region_info": {
+                "id": "193",
+                "name": "Воронеж",
+                "genitive": "Воронежа",
+                "dative": "Воронежу",
+                "accusative": "Воронеж",
+                "prepositional": "Воронеже",
+                "preposition": "в",
+                "latitude": 51.660781,
+                "longitude": 39.200269,
+                "parent_ids": [
+                    "193",
+                    "120842",
+                    "10672",
+                    "3",
+                    "225",
+                    "10001",
+                    "10000"
+                ]
+            },
+            "timezone_info": {
+                "abbr": "MSK",
+                "dst": false,
+                "name": "Europe/Moscow",
+                "offset": 10800
+            }
+        },
+        "name": "АВТОЦЕНТРГАЗ РУСАВТО Воронеж",
+        "phones": [],
+        "redirect_phones": false,
+        "chats_enabled": false,
+        "call_hours": {
+            "call_hour_start": 8,
+            "call_hour_end": 20,
+            "call_minute_end": 0,
+            "call_minute_start": 0
+        }
+    },
+    "service_prices": [],
+    "service_schedules": {},
+    "services": [],
+    "state": {
+        "state_not_beaten": true,
+        "image_urls": [
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/1998116/119e849260f5e03128b0a991afe18786/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/1998116/119e849260f5e03128b0a991afe18786/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/1998116/119e849260f5e03128b0a991afe18786/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/1998116/119e849260f5e03128b0a991afe18786/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDyvRNEtfDGk+HfGMl6zBr1NkP2YKuUcElpFyQuOd2329M+7aN+2reeI/HSaPCPDphmujEsytcbZ0ThimxHLNsKlVIGS/3hg48W1T45ah+zz45uvB7WsP8Awi9nMqWd7Y24adoC5dgzM5DnDEc4bOMkYFbGh/tVX3ifxPPf6B4La+0meV7eKSSRVvPMSNSWJBIVNxUEYP3id3avPhK2qj7vqdVRym7Sldnv15fDx1rP2hPEEFoWuooYdFurJ4p90jqGbLKpwN2csBlfqDRXmfw68Ma1q/xw07xvr93daPa/umGm2ly5jhlUgLMT0LBFx93rg8dKKXtqUtbmihVtqeN/GXT7WbWXMltDIfMxlowa9V/Z30HTLHw3czW2nWlvNJIQ8kUCqzcdyBzRRXly/wB2Otfxz3K5gjVUxGo+Xso9qKKK4I7Haz//2Q=="
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2091571/f9f64df85c4444cddc08dc9432154278/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2091571/f9f64df85c4444cddc08dc9432154278/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2091571/f9f64df85c4444cddc08dc9432154278/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2091571/f9f64df85c4444cddc08dc9432154278/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCt+0z8epfDN7qPh7w9Le6Vrlrqk8F+ZLNYZQIoURWTAzskLkjgHCHOMmvnmX4zeO1SGQ+I9UnuX5KmSTYgORhuOvfg4wR3yK+tPip8ZdB+B3izV9G17Wp9SlsJIY5PKxLcKZIVly6jAwN2OOc8V5g/7X/gldVTVRrmqi3LMht00pQrj+6WLZyAwGRj9TXlyqy6U7nZGnF3vNI7T4Zfti+IdO+FOmeErBl1rxzd6q1lCJWB3q6b1YsSEJDRFOcdFJPPBWHZfFPRfjrqMNhoirE0cE93am7IEySBWi37FfK4DsRk5JAOOKKtYuEVapozP2EnrHVHjH/BQFFj/ah8ahVChltWIAxk/ZYua63xr4F8N2ng/VZ4PD2lQzJp8rrJHZRKwbyWOQQuc55ooqp7RFHeRx37EUayfE/UmdQzRaRK0ZYZKHzYRkehwSPxNFFFeNmH8b5HoYX+Gf/Z"
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2160351/7396f261c5c40f5a8991095fd4e8e071/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2160351/7396f261c5c40f5a8991095fd4e8e071/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2160351/7396f261c5c40f5a8991095fd4e8e071/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2160351/7396f261c5c40f5a8991095fd4e8e071/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD0jT9I1P4K+NNMllbUPEd9D5mbeKxkE7bZncDj5XJAViC3Qk5+WuR17/gov498H+O9Y0qfTdOsrCz1GSJLa6tH3GJ3kMTEkqwLKrE9RyMda6DUPhdqfw9+KU3ifQ/FOqeJNlu8cmn395N5E9wTgz5DckRllGV43E+1eZfEP9qTXvC3imO51zwSLHw5ZyQQ3EsV0Gu2kkV/nQnAaPcuMEDp1Fc0akWrR3NZwkneRP48+LMPxj1bXtY2PbtvDt8kghlOwkmMlemFP3sUV5tqf7SV98UfHWn6H4dsEn0+4vf3k+qWoLR25wSPlfGMbgd27sQaK8+pWVJ2mdcIOavE+xdO5vpyeSCcH868N/a50mxvPAsc1xZ2880cwCSSRKzKOehI46UUVhT/AIqN6v8ADZ80fBu3ii123ZIkRtx5VQD0ooormxn8Q1w3wH//2Q=="
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/1956707/614bc21b481e74d5cc7158f1282ba5b3/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/1956707/614bc21b481e74d5cc7158f1282ba5b3/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/1956707/614bc21b481e74d5cc7158f1282ba5b3/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/1956707/614bc21b481e74d5cc7158f1282ba5b3/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD0Xx58bPEPhf4ZxeGPBmpRaFdwWaC0MUqpI2GYOEiPQhRvD8g7vavIPh9+1HrWmW8Woav4o1XVtXRFbT76e+eR4dq7JUmDNtdWYq2CpIBbBXPHlMFl4u+NXxh1PwtoFzpekXWn/wCj/br2YLK8QUqJY1+8xKnkKCQHA6Vz3iL4eal8FvG02iaqbPxHpMcG6bLFPvLwCmDhvrnKn3GOZzjzcrepfLK3NbQ+4vBP/BQn4cwX+rzavJqWm+IJVWNtRvInnhiUj7qbNxVVJJ2hQGIXnjIK/OPxp4kaz1WS50WwbTrK6Aa6sHk8yMuFALoSAwB5O0k7T7YAKmSc7NNr7v8AIWx7L4/iTTf2pPCsloi2sh1LTl3QjYceYiYyP9n5fpxWX8YpXk+MXjpXdmUa1eAKxyABcOB+QA/KiiueX8RehvH4H6nmOtqHu4gwDDcvB/CiiitFsZS3P//Z"
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2079554/0b6fdbddd92ee689d612d1f46f9a9ad3/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2079554/0b6fdbddd92ee689d612d1f46f9a9ad3/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2079554/0b6fdbddd92ee689d612d1f46f9a9ad3/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2079554/0b6fdbddd92ee689d612d1f46f9a9ad3/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDyfxT4s03wlfaHFcalaahJqkayRvppdhESQNj70QhgTzwR7mtPXP2i/FfwUl1Tw1o2o3NqsxNvfR2t2NquByAUJBODyynvjPFfJ99fNJfSO8jCRDlSxyV78H611njOCS1utIe9uZr6+urRb25mnkZ2eaQ7mJyeTms+VJ3HzNo+idS8M33h3StQm1XWLW3vNOsbfUJtNhfMyW85Ty2wRjBEiHrxkeoyV4TrHxk8U+MtRuRql7DPPc2cVlPcfZYlmuYYmBVXkC7mxtTv/AvpRWPJHqinOXQ8m1Mn7e3PVhXqXxHAGu6Xx/zDYf60UVuyFschbn/ibW//AF2WiiisJ7lI/9k="
+            }
+        ],
+        "mileage": 0,
+        "images_count": 6
+    },
+    "sub_category": "lcv",
+    "tags": [],
+    "vehicle_info": {
+        "displacement": 27,
+        "engine": "GASOLINE",
+        "equipment": {
+            "mirrors-heat": true,
+            "wheel-power": true,
+            "trip-computer": true,
+            "wheel-configuration": true
+        },
+        "gear": "BACK",
+        "horse_power": 106,
+        "light_truck_type": "AWNING",
+        "loading": 3000,
+        "mark_info": {
+            "code": "GAZ",
+            "name": "ГАЗ"
+        },
+        "model_info": {
+            "code": "GAZEL_3302_FERMER",
+            "name": "ГАЗель (33023/330273) Фермер"
+        },
+        "seats": 6,
+        "steering_wheel": "LEFT",
+        "transmission": "MECHANICAL",
+        "truck_category": "LCV"
+    },
+    "lk_summary": "<nobr>г/п</nobr> 3.0 т, 0.03 л (106 л.с.)"
+}

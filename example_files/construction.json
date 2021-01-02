@@ -1,0 +1,208 @@
+{
+    "availability": "IN_STOCK",
+    "category": "trucks",
+    "old_category_id": 32,
+    "color_hex": "FF8649",
+    "description": "АВТОБЕТОНОСМЕСИТЕЛЬ 581471 на шасси КАМАЗ 65115-50\nМодель КАМАЗ 65115, Евро 5, Колесная формула 6х4, Тип ошиновки двускатная, Грузоподъемность тн.\t17, Максимальная  мощность\t300, Модель КП КАМАЗ 154, Шины 11.00R22,5, Бак 350 л., МКБ, МОБ, двигатель КАМАЗ 740.705, 300 л.с.,  (Е-5), ТНВД BOSCH, система нейтрализации ОГ (AdBlue), Common Rail, привод от автономного двигателя ММЗ-242,, Барабан 7 м3. \n Возможна продажа в кредит. Готов к эксплуатации. Цена указана с НДС, с учетом приобретения через программу \"Партнерский лизинг\".",
+    "is_favorite": false,
+    "section": "new",
+    "seller_type": "COMMERCIAL",
+    "status": "ACTIVE",
+    "delivery_info": {},
+    "additional_info": {
+        "hidden": false,
+        "is_on_moderation": false,
+        "update_date": "1586156421524",
+        "creation_date": "1585808108000",
+        "fresh_date": "1585808108000",
+        "chat_only": false,
+        "dealer_card_promo": "SLEEP_PROMO"
+    },
+    "autostrategies": [],
+    "credit_info": {},
+    "brand_cert_info": {},
+    "counters": {},
+    "daily_counters": [],
+    "documents": {
+        "custom_cleared": true,
+        "pts": "ORIGINAL",
+        "vin": "X6S**************",
+        "year": 2020
+    },
+    "grouping_info": null,
+    "hash": "d9c8f040",
+    "id": "15755537",
+    "price_info": {
+        "price": 4915000,
+        "currency": "RUR",
+        "EUR": 59479,
+        "RUR": 4915000,
+        "USD": 64326
+    },
+    "price_history": [
+        {
+            "EUR": 59479,
+            "RUR": 4915000,
+            "USD": 64326,
+            "create_timestamp": 1585808108000
+        }
+    ],
+    "recall_info": {},
+    "saleId": "15755537-d9c8f040",
+    "salon": {
+        "actual_stock": true,
+        "client_id": "4898",
+        "code": "avtocentr_tehinkom_podolsk_podolsk",
+        "dealer_id": "21502690",
+        "logo_url": "//avatars.mds.yandex.net/get-verba/997355/2a00000169149dbaceefc732338e5f97d4fe/dealer_logo",
+        "offer_counters": {
+            "trucks_all": 22
+        },
+        "name": "Автоцентр ТЕХИНКОМ Подольск",
+        "phones": [
+            {
+                "phone": "+7 916 004-75-60"
+            }
+        ],
+        "place": {
+            "address": "Домодедовское шоссе, 7",
+            "coord": {
+                "latitude": 55.439518,
+                "longitude": 37.5766
+            },
+            "geobase_id": "10747",
+            "region_info": {
+                "id": "10747",
+                "name": "Подольск",
+                "genitive": "Подольска",
+                "dative": "Подольску",
+                "accusative": "Подольск",
+                "prepositional": "Подольске",
+                "preposition": "в",
+                "latitude": 55.431177,
+                "longitude": 37.544737,
+                "parent_ids": [
+                    "10747",
+                    "98603",
+                    "1",
+                    "3",
+                    "225",
+                    "10001",
+                    "10000"
+                ]
+            }
+        },
+        "registration_date": "2013-08-12T20:00:00Z",
+        "salon_id": "4864",
+        "is_official": false
+    },
+    "seller": {
+        "location": {
+            "address": "Московская область, Россия",
+            "coord": {
+                "latitude": 55.439518,
+                "longitude": 37.576599
+            },
+            "geobase_id": "10747",
+            "region_info": {
+                "id": "10747",
+                "name": "Подольск",
+                "genitive": "Подольска",
+                "dative": "Подольску",
+                "accusative": "Подольск",
+                "prepositional": "Подольске",
+                "preposition": "в",
+                "latitude": 55.431177,
+                "longitude": 37.544737,
+                "parent_ids": [
+                    "10747",
+                    "98603",
+                    "1",
+                    "3",
+                    "225",
+                    "10001",
+                    "10000"
+                ]
+            },
+            "timezone_info": {
+                "abbr": "MSK",
+                "dst": false,
+                "name": "Europe/Moscow",
+                "offset": 10800
+            }
+        },
+        "name": "Автоцентр ТЕХИНКОМ Подольск",
+        "phones": [],
+        "redirect_phones": false,
+        "chats_enabled": false,
+        "call_hours": {
+            "call_hour_start": 9,
+            "call_hour_end": 18,
+            "call_minute_end": 0,
+            "call_minute_start": 0
+        }
+    },
+    "service_prices": [],
+    "service_schedules": {},
+    "services": [],
+    "state": {
+        "state_not_beaten": true,
+        "image_urls": [
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2171884/c837d0af833b5cb2a12fa0da27ed8f0d/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2171884/c837d0af833b5cb2a12fa0da27ed8f0d/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2171884/c837d0af833b5cb2a12fa0da27ed8f0d/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2171884/c837d0af833b5cb2a12fa0da27ed8f0d/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD7j+OP7S+mfAvwdpus/Yo9bguGaILDdBMMCigAhWBJLjrjABPOMV4B4q/a18T/ABP0+/8A+EdvotE0+C4iimSE7J0O1NwEh5ON4bop4xz0r86PEdndXFuItCu7wWjgGa2vZyUdh0IAH161c8DfEbxH4SvrqLWDqUthccmO2JKK24HIA4GcMDj1FbxnFLRamfK3o2fqv+zB8Wtdjg1DQfG/iC21GKKFp7K8nP70AHLrLMxG/IO4EqCMNyeKK/Ny48SaH8SLC+N1eXmhXM7BCJVyzqjqUfn5eQoGO1FYTqe9ojaEIW96Vv69Ti/D5zaIT1xXQSAeWhxzg0UU4kIjdQbDoOjfzNFFFDIZ/9k="
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/1574485/eff688881b7d676b7e247e4c63bbc381/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/1574485/eff688881b7d676b7e247e4c63bbc381/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/1574485/eff688881b7d676b7e247e4c63bbc381/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/1574485/eff688881b7d676b7e247e4c63bbc381/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD69m/asS18V6rDbXllqOlSqk+nNNG0JKEdVPBZe/Izz1rB8I/8FCvCHiC2uv7TsJtO8nUHsfMiJkWVF4MijGRyU4Pqecg18HfFLRfFH9owzeG7+507S/s6wyW6yt5SgcbQQDwR2P8A9avJD4P8a2Vhc2ET24trnIkQHBfPqdue5rVVI8vw6hyeZ+nsn7Xmk67rNjp8ui3+j6dd2/2g6veyAQICoYAEAg8E5yRggAZzwV8BeBfFPiew019G8Waemr6SEWKO3kSLy9gXbtYAAlRhcc9vpRWc680/dFGjSfxX++36M9tBMmkF3O59rfMeT0Fcr4uRYZbLywE8w/PtGN319aKKmOxr0Of1wCPzFQbRg8Lx2NFFFYS3Ef/Z"
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2074421/d028e940d378de1bc024246e923da794/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2074421/d028e940d378de1bc024246e923da794/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2074421/d028e940d378de1bc024246e923da794/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2074421/d028e940d378de1bc024246e923da794/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD6j8VfHXRPFnhi7jS5vVBf/Q5tGaeTzUZQo3hFDAFmIbcuFHUgiqXhn45XFrDDpky2iraxJH5ci7JCi8cEHngdcV8v634R8bR3ml33hTxpPby2fmF5dVRJpiWXaSrhB/D2NeOfEbU/izp/iZLmGzR5fLEa3mmWzS+a2zGGJztyR6jkk0li7u8Wrjjh4pe8foV4t/aa8BaHpslxLePdvF5nnW9kglkjaPhwyg8YPrwaK/NbwL4f8d6V4nivrqEx20szTXdnjbLcB1xIrFQT8w4znPfg0V0/W0t1+KMXh77M+m/D0rzHMjs5GMFjnuK6g/69vYUUV8zPc9iGxfndvsA+Y/dPf60UUV1R2MXuf//Z"
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2203170/6b00ccaef918e0c6696102815049f9f6/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2203170/6b00ccaef918e0c6696102815049f9f6/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2203170/6b00ccaef918e0c6696102815049f9f6/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2203170/6b00ccaef918e0c6696102815049f9f6/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3Hwja6X490y3utDuIdRtplykkLgr2zk54xnkdq4zwJreheM7DxfJr+kNZ2umzLBZwzSqFuxucMx+Xts+6M9815l4ptvHHhC00uPwdLCmi2ZF1cR2sPlTSzjdzshAZwRsAUHAIyQRmuU8K/tD+MdK1bWLRvAlt4hudQci5nhlkWA/e3rsAbJ3Mc89eoxxXoyzeo6c4U9L9b6r/AIc4YZfTUlKerR7t8TdI0rTNC1HxJaywXFgsUsscBT7M/wAmMKEdQMYIJI/Dd1oryXzfij4g8Nx6frV/omk6WIHUW6Whupf3sWyRG3uAqnOcLxkDrzkqI8RYujFU46pen+RayPCVm51Jcrfq/wAj0vw+7OqbmJyvc1sTdIz3z1oor5WqexDYwdbdjaScn7p7/WiiiiOwz//Z"
+            }
+        ],
+        "mileage": 0,
+        "images_count": 4
+    },
+    "sub_category": "construction",
+    "tags": [],
+    "vehicle_info": {
+        "construction_type": "MIXER_TRUCK",
+        "mark_info": {
+            "code": "KAMAZ",
+            "name": "КамАЗ"
+        },
+        "model_info": {
+            "code": "AVTOBETONOSMESITEL",
+            "name": "Автобетоносмеситель"
+        },
+        "operating_hours": 1,
+        "truck_category": "CONSTRUCTION",
+        "equipment": {}
+    },
+    "lk_summary": "автобетоносмеситель"
+}

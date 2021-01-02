@@ -1,0 +1,232 @@
+{
+    "availability": "IN_STOCK",
+    "category": "trucks",
+    "old_category_id": 32,
+    "color_hex": "FAFBFB",
+    "description": "Продаю Автокраны \"Челябинец\" на базе Камаз и Урал\nТехника в наличии на стоянке!!\n\nШасси 43118 6х6, полный привод г.п. 25 тонн, стрела 28 метров (без гуська).\n\nВыгодный лизинг!\nСкидка 10% (субсидия). от указанной цены!\nЦены с НДС.\nДоставка в любой регион РФ.\nРасширенная гарантия и удобное сервисное обслуживание.\n_______________________________________________\n\nТехническое описание Автокрана КС 55732-28 :\nКран на автомобильном шасси КС КС 55732-28- это современный надежный и маневренный автокран из модельного ряда автокранов КС. Удобный в эксплуатации, экономный в обслуживании.\nПо многим показателям превосходящий конкурентов. Данная техника преимущественно эксплуатируется в северных районах РФ. и зарекомендовала себя исключительно со стороны надежности и удобства эксплуатации.\nСоответствует требованиям по габаритам, общей массе и нагрузкам на оси!!\n_______________________________________________\n\nОптимальный вылет стрелы 28 м., мощный двигатель и компактные размеры являются преимуществами данной модели. Максимальная грузоподъемность - 25 т максимальный грузовой момент - 85, глубина опускания груза - 17 метров.\n________________________________________________\n\nХарактеристики:\nГрузоподъемность максимальная, т 25\nМаксимальный грузовой момент, тм 85\nВысота подъема на стреле максимальная, м 28,3\nВылет стрелы, м 26\nДлина стрелы, м 28,1\nРазмер опорного контура, м 5,75х6\nСкорость передвижения, км/ч 60\nСкорость подъема (опускания) груза, м/мин.7,0-42,0\nСкорость посадки, м/мин (при k=6) - 0,3\nГлубина опускания максимальная м 17\nЧастота вращения, об/мин. 2\n_______________________________________________\n\nТак же в наличии:\nШасси : КамАЗ ,МАЗ, Урал и др. (6x4 и 6x6 и др )\nГрузoподъемность: 25 - 110 тонн\nКрановые установки: \"Галичанин\" \"Челябинец\" \"Клинцы\" \"Ивановец\"\nВыгодные цены.\nТехника 2019-2020 г.в в Наличии.\nСтрелы: 21-52 метра\n\nПротивовесы, гуськи, люльки и другое доп оборудование в наличии.",
+    "is_favorite": false,
+    "section": "new",
+    "seller_type": "COMMERCIAL",
+    "services": [
+        {
+            "service": "all_sale_special",
+            "is_active": true,
+            "prolongable": false
+        },
+        {
+            "service": "all_sale_toplist",
+            "is_active": true,
+            "prolongable": false
+        },
+        {
+            "service": "all_sale_premium",
+            "is_active": true,
+            "prolongable": false
+        }
+    ],
+    "status": "ACTIVE",
+    "delivery_info": {},
+    "additional_info": {
+        "hidden": false,
+        "is_on_moderation": false,
+        "update_date": "1586189455653",
+        "creation_date": "1586103223000",
+        "fresh_date": "1586103223000",
+        "chat_only": false,
+        "dealer_card_promo": "SLEEP_PROMO"
+    },
+    "autostrategies": [],
+    "credit_info": {},
+    "brand_cert_info": {},
+    "counters": {},
+    "daily_counters": [],
+    "documents": {
+        "custom_cleared": true,
+        "pts": "ORIGINAL",
+        "year": 2020
+    },
+    "grouping_info": null,
+    "hash": "fc5f54ab",
+    "id": "16291466",
+    "price_info": {
+        "price": 8225000,
+        "currency": "RUR",
+        "EUR": 99535,
+        "RUR": 8225000,
+        "USD": 107647
+    },
+    "price_history": [
+        {
+            "EUR": 99535,
+            "RUR": 8225000,
+            "USD": 107647,
+            "create_timestamp": 1579517189000
+        }
+    ],
+    "recall_info": {},
+    "saleId": "16291466-fc5f54ab",
+    "salon": {
+        "actual_stock": true,
+        "client_id": "45076",
+        "code": "atlant_spectehnika_moskva",
+        "dealer_id": "21762257",
+        "logo_url": "//avatars.mds.yandex.net/get-verba/1672712/2a0000016fc21849a7885ab91ac54c0d4383/dealer_logo",
+        "offer_counters": {
+            "trucks_all": 5
+        },
+        "name": "АТЛАНТ Спецтехника",
+        "phones": [
+            {
+                "phone": "+7 499 375-85-60"
+            }
+        ],
+        "place": {
+            "address": "32-й километр, МКАД",
+            "coord": {
+                "latitude": 55.574711,
+                "longitude": 37.61733
+            },
+            "geobase_id": "213",
+            "region_info": {
+                "id": "213",
+                "name": "Москва",
+                "genitive": "Москвы",
+                "dative": "Москве",
+                "accusative": "Москву",
+                "prepositional": "Москве",
+                "preposition": "в",
+                "latitude": 55.753215,
+                "longitude": 37.622504,
+                "parent_ids": [
+                    "213",
+                    "1",
+                    "3",
+                    "225",
+                    "10001",
+                    "10000"
+                ]
+            }
+        },
+        "registration_date": "2020-01-18T11:44:52Z",
+        "salon_id": "38712",
+        "is_official": false
+    },
+    "seller": {
+        "location": {
+            "address": "Россия",
+            "coord": {
+                "latitude": 55.574711,
+                "longitude": 37.617329
+            },
+            "geobase_id": "213",
+            "region_info": {
+                "id": "213",
+                "name": "Москва",
+                "genitive": "Москвы",
+                "dative": "Москве",
+                "accusative": "Москву",
+                "prepositional": "Москве",
+                "preposition": "в",
+                "latitude": 55.753215,
+                "longitude": 37.622504,
+                "parent_ids": [
+                    "213",
+                    "1",
+                    "3",
+                    "225",
+                    "10001",
+                    "10000"
+                ]
+            },
+            "timezone_info": {
+                "abbr": "MSK",
+                "dst": false,
+                "name": "Europe/Moscow",
+                "offset": 10800
+            }
+        },
+        "name": "АТЛАНТ Спецтехника",
+        "phones": [],
+        "redirect_phones": false,
+        "chats_enabled": false,
+        "call_hours": {
+            "call_hour_start": 10,
+            "call_hour_end": 19,
+            "call_minute_end": 0,
+            "call_minute_start": 0
+        }
+    },
+    "service_prices": [],
+    "service_schedules": {},
+    "state": {
+        "state_not_beaten": true,
+        "image_urls": [
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/1986206/81b3ff8d5e2f510d5c4197f33550c01b/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/1986206/81b3ff8d5e2f510d5c4197f33550c01b/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/1986206/81b3ff8d5e2f510d5c4197f33550c01b/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/1986206/81b3ff8d5e2f510d5c4197f33550c01b/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwC1pOsa94f+NniKSL4i2trD9lgmk0wzzxoN0MbxqylfKZ8Pj5Scncx25Ne6+F/jbaeE7TS9K1i2it4bqIzRXVpOkjSbjuDtGDkAg9sn2FfMHhb4ReOdbvdZ1KbQhGdTWKbztaVIZ4ZI2ZfLA3sQpRs7hnIUAgHkb1roXw2vL3XbLV9C0+OfSF8mTOoiSVFZGzvRpcrlA3UA9cVxUnUXxRskehiJUptcjvor9Oi8l1ue9fFD9pjw74N06NrEvrt7dRO9tHaEGPcCRiRs5QZHoT7UV+eHw2n8U/FX4gy6dpUVwPDuo3kjjUtQtpZDaW+9n5dGHIyUChhnOMjOaK62qktYu3yPPUqMdJRu/U/S+fi2c9/WvjL48aJp1z4h1G5msLWW4kwHleFS7DpySMnjiiitmYQPdfgzp1pp/gHQorW1htohAh2QxhByuTwPc0UUVYnuf//Z"
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2191938/76e1ed76b4bb5a0f486b077f4fb92f13/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2191938/76e1ed76b4bb5a0f486b077f4fb92f13/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2191938/76e1ed76b4bb5a0f486b077f4fb92f13/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2191938/76e1ed76b4bb5a0f486b077f4fb92f13/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD79X+xWQt/adkFDtGT56YDKSGXr1BBBHqKd5mjQAsdUsAB3M6D+tfMfjaL4n+EPC2oRf2K3iTW9Tnmt7GfRI5kj0uGRcmRgIF3sX3MeeTg5BAFcRqlr8c/Bdo8NnoMWuQyzhVmjjnklkYsW3uhUbVLEglsgAYpfW6i+JGbwdL7Dv8A16H23aNpV7aG6t7+0uLUcmaOdWQckdQcdQfyor5J0n4d/GD4r+FoZtSuNH8JgGSNLW6090mAwULMgAIBxkEMCR6DiitKdZTjecrMyqUHB2hG59G2F7cOvzXErcd3NWPtErMwMrkA55Y0UVHU06CCeQocyOen8R9KKKKzZoj/2Q=="
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2167497/5eff0e814b1c75230c2825a266810c2f/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2167497/5eff0e814b1c75230c2825a266810c2f/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2167497/5eff0e814b1c75230c2825a266810c2f/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2167497/5eff0e814b1c75230c2825a266810c2f/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD2Tx2YtLtbm4mkSKKMZLyNtUdhknoMkc18uat8VBZ6hYac72+qTyTmK5vV3xjcxKooUAjGcchcnPNex/tKabonjjVxosGuxW2taUrTT2rSEKEZQ2GHdtvIx3wDjcCPnf4dfDKXxF4t0yOLUV1BvthMiR5QbQjMCxJUlcr0xzkg4yAfczXNcXSxNP2MrQj2e78/TaxfDWT4Cpk9atiYXqS2umuXTS3rvfZ6dj0iztryW1V75IEnIyVgYso+hPX60V6f4i8Df2L5AXMqMg/eA5AOB8nTtg89wRRX6PgasMThoVYu90flmMToV5U5K1meR+IoI7n4h/GG6mjWW6gvrpYpnUF4xskGFY8gY44rhvg6xb4k6ApJKnWLdCD0KkpkfT2oor8Ql/vE/X/M/pOh/wAif/t1/kj7S8SqP7CfgcOpHt1ooor9P4a/3BerP55z3/fH6I//2Q=="
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/1970300/ae480229f5e7fb11cd30639238d1be21/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/1970300/ae480229f5e7fb11cd30639238d1be21/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/1970300/ae480229f5e7fb11cd30639238d1be21/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/1970300/ae480229f5e7fb11cd30639238d1be21/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDxfw3+1X8WtL1aXSNB8Q3sGnxuDFBDJKm7IHBVZMA44/Cm+NPHuuaU6K9jFo19KwnmttRt4gpVx8rrujUknDc+g49voGy/Z5+Gusadc39891aam0oxbw31+qOCRubKXAVcZJwF7VoN+zD8JW1R7Z/Ed99nWJXS5W91Nt7EtlcecSMAA5P972qbDR82eDP2qPi3omqra6Fqen21nZR73ljt12W8Q+Zmyn4nHcnpRXvPj79n3wtonhvULLwvqV1qkVzaSJL+/nV8tngNNvPGFPQ8EgcmiiyWw277nj3jLxJq9pp/hxoNUvYGl05nkMdw6l2+1XC5ODycKoyewA7Vj+J/FWtW2l+GHh1i/iebTWkkZLpwXb7XcruYg8nCqMnsAO1FFMk3PiZ4o1mw8Y+NYLXV7+2gt7++SGOG5dFjVZHChQDgAADAHTFFFFJks//Z"
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2074245/7c1e40f778302a81c92ba392ae1c77e3/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2074245/7c1e40f778302a81c92ba392ae1c77e3/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2074245/7c1e40f778302a81c92ba392ae1c77e3/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2074245/7c1e40f778302a81c92ba392ae1c77e3/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD2zxqvhzxn4a8QeK31jxKhu9Wujp8mm3s9rMVMjGMeU7JtG3GVYDHpmvlTxH4GvZtSvLu3vPGFut06zXES3URSdwBhnBmw5+UHLZ6U34l/tI6ovxB8YWsthqJ0walJfWn2BYlit4pGDKVDnBGCBkg151qf7U0Dgj7TrW8fKUKWQJ5x/dx+tJpNjUrbHs37L0Gq+BP2jfB32PW9fifxBrC22o2s18EFygSaTMqxsyyDO44J6sTRXgWnfEC8+J/jPwlZ6Bqer6Pq8U892NTjjV5oHjildWRbf5ugHTnqaKhtLcLn1V8KtG0/WXcahY218Atoo+0wrJgF2yPmB9B+VcB+3v4f0vQoBHpum2enRuzhktIEiBAVCMhQOhoorD/l4P7JZ/YltYRY20ohjEosAwcKN2fNIzn1xx9KKKKUtxdD/9k="
+            }
+        ],
+        "mileage": 0,
+        "images_count": 9
+    },
+    "sub_category": "crane",
+    "tags": [],
+    "vehicle_info": {
+        "crane_radius": 28,
+        "displacement": 10000,
+        "loading": 25000,
+        "load_height": 28,
+        "mark_info": {
+            "code": "CHELYABINETS",
+            "name": "Челябинец"
+        },
+        "model_info": {
+            "code": "KS_55732",
+            "name": "КС-55732"
+        },
+        "truck_category": "CRANE",
+        "equipment": {}
+    },
+    "lk_summary": "автокран, <nobr>г/п</nobr> 25.0 т, 10.0 л"
+}

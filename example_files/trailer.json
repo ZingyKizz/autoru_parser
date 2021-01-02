@@ -1,0 +1,222 @@
+{
+    "availability": "IN_STOCK",
+    "category": "trucks",
+    "old_category_id": 16,
+    "color_hex": "CACECB",
+    "description": "Новые шторные полуприцепы Schmitz Cargobull 2020 г.в.\nУВЕЛИЧЕННАЯ ВНУТРЕННЯЯ ВЫСОТА - 2750 мм\nБоковой погрузочный просвет - 2670 мм\nПод ССУ тягача 1 120 мм\nПолная высота 4 003 мм\nПроизводитель - Schmitz Cargobull AG (Германия)\nПолная штора! Независимая 4х-стороняя погрузка!\n3 Оси Schmitz Rotos (Германия)\nДисковые тормоза\nABS, EBS, пневмоподвеска\nОбъём 94 м3, 33 европалета\nПолная масса - 39 000 кг.\nСобственный вес - 6 200 кг\nРезина 385 65 22.5 производитель - PREMIUM Selection\n4 замка на воротах!\nВ комплекте: двойная корзина для запасного колеса, ящик для инструмента, багор, противооткатные упоры, пломбировочный трос, обрешетка.\nГарантия на полуприцеп 12 месяцев, без учета пробега!\n\nПродажа от официального дилера Schmitz Cargobull!\nЛюбая форма оплаты, возможна покупка в кредит или лизинг! Работаем со всеми ведущими лизинговыми компаниями. Помощь в оформлении лизинга. Принимаем технику в зачёт по системе Trade-In, выкуп техники.",
+    "is_favorite": false,
+    "section": "new",
+    "seller_type": "COMMERCIAL",
+    "status": "ACTIVE",
+    "delivery_info": {},
+    "additional_info": {
+        "hidden": false,
+        "is_on_moderation": false,
+        "update_date": "1586173322909",
+        "creation_date": "1585561918000",
+        "fresh_date": "1585561918000",
+        "chat_only": false,
+        "dealer_card_promo": "DONT_SHOW"
+    },
+    "autostrategies": [],
+    "credit_info": {},
+    "brand_cert_info": {},
+    "counters": {},
+    "daily_counters": [],
+    "documents": {
+        "custom_cleared": true,
+        "pts": "ORIGINAL",
+        "vin": "WSM**************",
+        "year": 2020
+    },
+    "grouping_info": null,
+    "hash": "35971f7c",
+    "id": "15451745",
+    "price_info": {
+        "price": 2602990,
+        "currency": "RUR",
+        "EUR": 31500,
+        "RUR": 2602990,
+        "USD": 34067
+    },
+    "price_history": [
+        {
+            "EUR": 381,
+            "RUR": 31500,
+            "USD": 412,
+            "create_timestamp": 1585561918000
+        }
+    ],
+    "recall_info": {},
+    "saleId": "15451745-35971f7c",
+    "salon": {
+        "actual_stock": true,
+        "client_id": "36303",
+        "code": "ooo_karkom_servis_moskva",
+        "dealer_id": "21425183",
+        "logo_url": "//avatars.mds.yandex.net/get-verba/1540742/2a0000016dd8bf3fba769bbb884ab76c2789/dealer_logo",
+        "offer_counters": {
+            "trucks_all": 35
+        },
+        "name": "КАРКОМ СЕРВИС",
+        "phones": [
+            {
+                "phone": "+7 903 262-85-89"
+            }
+        ],
+        "place": {
+            "address": "Мурманский проезд, 1Ас1",
+            "coord": {
+                "latitude": 55.805968,
+                "longitude": 37.622226
+            },
+            "geobase_id": "213",
+            "region_info": {
+                "id": "213",
+                "name": "Москва",
+                "genitive": "Москвы",
+                "dative": "Москве",
+                "accusative": "Москву",
+                "prepositional": "Москве",
+                "preposition": "в",
+                "latitude": 55.753215,
+                "longitude": 37.622504,
+                "parent_ids": [
+                    "213",
+                    "1",
+                    "3",
+                    "225",
+                    "10001",
+                    "10000"
+                ]
+            }
+        },
+        "registration_date": "2018-06-15T10:40:59Z",
+        "salon_id": "30041",
+        "is_official": false
+    },
+    "seller": {
+        "location": {
+            "address": "Мурманский проезд, 1Ас1",
+            "coord": {
+                "latitude": 55.805969,
+                "longitude": 37.622227
+            },
+            "geobase_id": "213",
+            "region_info": {
+                "id": "213",
+                "name": "Москва",
+                "genitive": "Москвы",
+                "dative": "Москве",
+                "accusative": "Москву",
+                "prepositional": "Москве",
+                "preposition": "в",
+                "latitude": 55.753215,
+                "longitude": 37.622504,
+                "parent_ids": [
+                    "213",
+                    "1",
+                    "3",
+                    "225",
+                    "10001",
+                    "10000"
+                ]
+            },
+            "timezone_info": {
+                "abbr": "MSK",
+                "dst": false,
+                "name": "Europe/Moscow",
+                "offset": 10800
+            }
+        },
+        "name": "КАРКОМ СЕРВИС",
+        "phones": [],
+        "redirect_phones": false,
+        "chats_enabled": false,
+        "call_hours": {
+            "call_hour_start": 8,
+            "call_hour_end": 21,
+            "call_minute_end": 0,
+            "call_minute_start": 0
+        }
+    },
+    "service_prices": [],
+    "service_schedules": {},
+    "services": [],
+    "state": {
+        "state_not_beaten": true,
+        "image_urls": [
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2164482/d50411e84fe65c0a9e5cd4e5a9e6eb1f/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2164482/d50411e84fe65c0a9e5cd4e5a9e6eb1f/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2164482/d50411e84fe65c0a9e5cd4e5a9e6eb1f/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2164482/d50411e84fe65c0a9e5cd4e5a9e6eb1f/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD6j8d/FGbwPcfZEtI7m5G0lZZDGuD7gEjp6Gqem/H3TJkVdSs57I8FpImE0aj8MMf++a+ANO+JWteSYmkuNRVSrS3ByzRrzjPGB3/WsbWfjP4jj1Ka1tbeGaHOEKvyo2qcluVPU8D0q1Wi0myOSofqPZfFXwxfW7S22t2QjQAFJpRG4z0yp55+lFflvonxQ1vTfNlu7qC5km2/J5RUJg5xkf1FFL29PzLVOp2OOB/ev+P86psoKbiAWJ696KK81HoS3KwOGb26e1FFFbR2M5bn/9k="
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2159858/c067c2a2f241b6d7269841b758c6fbc7/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2159858/c067c2a2f241b6d7269841b758c6fbc7/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2159858/c067c2a2f241b6d7269841b758c6fbc7/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2159858/c067c2a2f241b6d7269841b758c6fbc7/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD7Cu/i74Y0yEDVL+2hUjOwSeZKR6hVyxH0FcL4m/aL0OG3MOh6Zd37g5E13KLeM+4wGY/Qha/OLXPiprL6hHNZm0baoSSM7iCRnncPu/lVrSvjF4imudk1vBHbfdAgUyNn1J3dOv8ADnpWntqe6IcKnY/Rjwl8S7bxXayedH9iuI0DttclWz6Z5FFfnzqnxH1xN4t72KLYF5TzYmfGcABl9/SipeIinsaRpSa1PJLhisjYJH0NP0iV/tTtvbcACDnmiivPex3dTomYytGXJc7+rHNFFFYdDRH/2Q=="
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2062230/8f65cf6aea3fd8a90bac3c945655615f/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2062230/8f65cf6aea3fd8a90bac3c945655615f/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2062230/8f65cf6aea3fd8a90bac3c945655615f/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2062230/8f65cf6aea3fd8a90bac3c945655615f/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD6mvPjH4Z8O3s1te6uLmeNjGYrWN5SrA4IyBgHPqay9U/aN05YyNN0m7uHA+9dypCh+hUufzUV+e978TNRt9s9rdvqDvlpJL1gjuxPXjJbvknvWKfjZ44NrKYYNNujGP8AlmGQk7sY+Z/TPbtVfWaL+0T7Oouh+iXgP406j418ZjSLi0tLS3kgeRVgd5JFYc/fOARgH+EfXjkr87774xayZ/LYPZXUXySyWu2T5xyyg5ZWGeM8gj60VjVxkISslcapVWtEcJqDsYC2TuWQKGzyBkcVb+H6i58YaXHMBLG0hVkcZBG3oQaKK8SG7PTlsiG6dpdUvt7F8TsBuOcDceKKKK55HRHY/9k="
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2079973/5d22291dec82f372e4fd965ee106f4d6/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2079973/5d22291dec82f372e4fd965ee106f4d6/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2079973/5d22291dec82f372e4fd965ee106f4d6/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2079973/5d22291dec82f372e4fd965ee106f4d6/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD6K8UfGMeGtStbNbJb1pI/NkJuBHtGSBj5Tk8Hrir+l/HnQNga7ttQsV7u6JIB+EbMT+Vfm5F8X/FNrIrzxz6o0cYhVrltzAAnGWLD+X402H4y+O7vYJU0uzj6smGDYzwNxJGcY5x61UcVRqJNMiVOonZI/T/TPiVoPii7MOm6nHK4BYo+Y3IHXCsAaK/M9/H/AIguCZNz2aN0eKdS/TnnYBj8KKUsSk7RV0Hs6vb+vuPLZnZrp1YkqAuFJ4qDTZ5PNH7x+uPvGiivBh0PS6s6e1O2/RRwCM4HrmiiiutbDR//2Q=="
+            },
+            {
+                "sizes": {
+                    "small": "//avatars.mds.yandex.net/get-autoru-vos/2194073/ba9156edd74266332aba8c6b52eccb31/small",
+                    "320x240": "//avatars.mds.yandex.net/get-autoru-vos/2194073/ba9156edd74266332aba8c6b52eccb31/320x240",
+                    "1200x900": "//avatars.mds.yandex.net/get-autoru-vos/2194073/ba9156edd74266332aba8c6b52eccb31/1200x900",
+                    "1200x900n": "//avatars.mds.yandex.net/get-autoru-vos/2194073/ba9156edd74266332aba8c6b52eccb31/1200x900n"
+                },
+                "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD2YWPwQ8f3Nrb/APCuII3nIQ7Qto0YKFl3AOOSMY+hr5x+K91+z1cabPofhmfWtB1fEP2W3uZS8GXAO3YxOeCDnJOSc9OaFh+0A+saj9h1Cxh06JkLxXenhyyHgYx97IBfByRkjgA5HGavD4Su72bWF0651fUdQUxSX1/bLbxRZxlCqLlzgAbyQRzjgZrmhiEvjaL5NbQOR8G+ILzwT8Rbe30rxNe2uo22ox27/ZkMDoVfawWVWyvUggde/SinL8PdSttaXVooba6u59SW7aVLhcRByz7eQA2cggjBBB4ORgrshjqFtZIn2M+xZgYrfRMCQ2F5HXnGf5n867jR0WfVdcgkUSQrcoRGwyoOW5xRRXyT/jROyluXvh1x4z1WAcQGzbMX8JwVxx04yfzooor0eiOxdT//2Q=="
+            }
+        ],
+        "mileage": 0,
+        "images_count": 9
+    },
+    "sub_category": "trailer",
+    "tags": [],
+    "vehicle_info": {
+        "axis": 3,
+        "brakes": "DISC",
+        "equipment": {
+            "abs": true,
+            "air-suspension": true,
+            "disc-brakes": true
+        },
+        "loading": 39000,
+        "mark_info": {
+            "code": "SCHMITZ_CARGOBULL",
+            "name": "Schmitz Cargobull"
+        },
+        "model_info": {
+            "code": "S01",
+            "name": "S01"
+        },
+        "suspension": "PNEUMO_SPRING",
+        "trailer_type": "ST_CURTAIN",
+        "truck_category": "TRAILER"
+    },
+    "lk_summary": "3 оси, <nobr>г/п</nobr> 39.0 т"
+}
